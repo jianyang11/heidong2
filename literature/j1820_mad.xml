@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/RG6/IfGGffhCiS/HuFMohKpWJVw</id>
+  <title>arXiv Query: search_query=all:"MAXI J1820" AND all:"magnetically arrested"&amp;id_list=&amp;start=0&amp;max_results=15</title>
+  <updated>2026-07-16T14:50:39Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22MAXI+J1820%22+AND+all:%22magnetically+arrested%22&amp;start=0&amp;max_results=15&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>15</opensearch:itemsPerPage>
+  <opensearch:totalResults>4</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2309.00200v3</id>
+    <title>Observations of a black hole X-ray binary indicate formation of a magnetically arrested disk</title>
+    <updated>2023-10-11T08:49:40Z</updated>
+    <link href="https://arxiv.org/abs/2309.00200v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2309.00200v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Accretion of material onto a black hole drags any magnetic fields present inwards, increasing their strength. Theory predicts that sufficiently strong magnetic fields can halt the accretion flow, producing a magnetically arrested disk (MAD). We analyze archival multi-wavelength observations of an outburst from the black hole X-ray binary MAXI J1820+070 in 2018. The radio and optical fluxes are delayed by about 8 and 17 days respectively, compared to the X-ray flux. We interpret this as evidence for the formation of a MAD. In this scenario, the magnetic field is amplified by an expanding corona, forming a MAD around the time of the radio peak. The optical delay is then due to thermal viscous instability in the outer disk.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-09-01T01:40:40Z</published>
+    <arxiv:comment>The author's version of the article which will appear in Science on 31 August 2023, 49 pages including the extended data. The online publication version can be found at https://doi.org/10.1126/science.abo4504</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <arxiv:journal_ref>Science 381, 961-964 (2023)</arxiv:journal_ref>
+    <author>
+      <name>Bei You</name>
+    </author>
+    <author>
+      <name>Xinwu Cao</name>
+    </author>
+    <author>
+      <name>Zhen Yan</name>
+    </author>
+    <author>
+      <name>Jean-Marie Hameury</name>
+    </author>
+    <author>
+      <name>Bozena Czerny</name>
+    </author>
+    <author>
+      <name>Yue Wu</name>
+    </author>
+    <author>
+      <name>Tianyu Xia</name>
+    </author>
+    <author>
+      <name>Marek Sikora</name>
+    </author>
+    <author>
+      <name>Shuang-Nan Zhang</name>
+    </author>
+    <author>
+      <name>Pu Du</name>
+    </author>
+    <author>
+      <name>Piotr T. Zycki</name>
+    </author>
+    <arxiv:doi>10.1126/science.abo4504</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1126/science.abo4504" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2501.17467v2</id>
+    <title>Multi-messenger Emission by Magnetically Arrested Disks and Relativistic Jets of Black Hole X-ray Binaries</title>
+    <updated>2025-04-16T08:26:02Z</updated>
+    <link href="https://arxiv.org/abs/2501.17467v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2501.17467v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Black hole X-ray binaries (BHXBs) are observed in various wavelengths from radio to GeV gamma-ray. Several BHXBs, including MAXI J1820+070 and Cygnus X-1, are also found to emit ultrahigh-energy (UHE; photon energy $&gt;$100 TeV) gamma rays. The origin and production mechanism of the multi-wavelength emission of BHXBs are under debate. We propose a scenario where relativistic particles from magnetically arrested disks (MADs), which could form when BHXBs are in quiescent or hard states, produce UHE gamma rays, while electrons in the jets produce GeV gamma-ray emission. Specifically, magnetic turbulence in MADs heats up and accelerates electrons and protons, while magnetic reconnection in jets accelerates electrons. Sub-PeV gamma rays and neutrinos are produced when relativistic protons interact with the thermal protons and the radiation by thermal electrons in the disk. We discuss the perspectives of observing sub-PeV multi-messenger signals from individual BHXBs. Finally, we evaluate the integrated fluxes of the quiescent and hard-state BHXB population and find that BHXBs may contribute to the Galactic diffuse emission above $\sim 100$ TeV.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-01-29T08:18:41Z</published>
+    <arxiv:comment>18 pages, 8 figures, 2 tables, revised version</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Riku Kuze</name>
+    </author>
+    <author>
+      <name>Shigeo S. Kimura</name>
+    </author>
+    <author>
+      <name>Ke Fang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2108.10929v2</id>
+    <title>Jet Parameters in the Black-Hole X-Ray Binary MAXI J1820+070</title>
+    <updated>2021-11-10T10:33:22Z</updated>
+    <link href="https://arxiv.org/abs/2108.10929v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2108.10929v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the jet in the hard state of the accreting black-hole binary MAXI J1820+070. From the available radio-to-optical spectral and variability data, we put strong constraints on the jet parameters. We find while it is not possible to uniquely determine the jet Lorentz factor from the spectral and variability properties alone, we can estimate the jet opening angle ($\approx 1.5\pm1^\circ$), the distance at which the jet starts emitting synchrotron radiation ($\sim 3 \times10^{10}$cm), and the magnetic field strength there ($\sim$10$^4$G), with relatively low uncertainty, as they depend weakly on the bulk Lorentz factor. We find the breaks in the variability power spectra from radio to sub-mm are consistent with variability damping over the time scale equal to the travel time along the jet at any Lorentz factor. This factor can still be constrained by the electron-positron pair production rate within the jet base, which we calculate based on the observed X-ray/soft gamma-ray spectrum, and the jet power, required to be less than the accretion power. The minimum ($\sim$1.5) and maximum ($\sim$4.5) Lorentz factors correspond to the dominance of pairs and ions, and the minimum and maximum jet power, respectively. We estimate the magnetic flux threading the black hole and find the jet can be powered by the Blandford-Znajek mechanism in a magnetically-arrested flow accretion flow. We point out the similarity of our derived formalism to that of core shifts, observed in extragalactic radio sources.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-08-24T19:38:24Z</published>
+    <arxiv:comment>ApJ, in press</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Andrzej A. Zdziarski</name>
+    </author>
+    <author>
+      <name>Alexandra J. Tetarenko</name>
+    </author>
+    <author>
+      <name>Marek Sikora</name>
+    </author>
+    <arxiv:doi>10.3847/1538-4357/ac38a9</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3847/1538-4357/ac38a9" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2209.14492v2</id>
+    <title>MAXI J1820+070 X-ray spectral-timing reveals the nature of the accretion flow in black hole binaries</title>
+    <updated>2022-12-22T08:39:42Z</updated>
+    <link href="https://arxiv.org/abs/2209.14492v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2209.14492v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Black hole X-ray binaries display significant stochastic variability on short time-scales (0.01-100 seconds), with a complex pattern of lags in correlated variability seen in different energy bands. This behaviour is generally interpreted in a model where slow fluctuations stirred up at large radii propagate down through the accretion flow, modulating faster fluctuations generated at smaller radii. Coupling this scenario with radially-stratified emission opens the way to measure the propagation time-scale from data, allowing direct tests of the accretion flow structure. We previously developed a model based on this picture and showed that it could fit NICER (0.5-10 keV) data from the brightest recent black hole transient, MAXI J1820+070. However, here we show it fails when extrapolated to higher energy variability data from Insight-HXMT. We extend our model so that the spectrum emitted at each radius changes shape in response to fluctuations (pivoting) rather than just changing normalisation. This gives the strong suppression of fractional variability as a function of energy seen in the data. The derived propagation time-scale is slower than predicted by a magnetically arrested disc (MAD), despite this system showing a strong jet. Our new model jointly fits the spectrum and variability up to 50 keV, though still cannot match all the data above this. Nonetheless, the good fit for 3-40 keV means the QPO can most easily be explained as an extrinsic modulation of the flow, such as produced in Lense-Thirring precession, rather than arising in an additional spectral-timing component such as the jet.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-09-29T01:10:38Z</published>
+    <arxiv:comment>20 pages, 10 figures, 4 tables, Accepted for publication in MNRAS</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Tenyo Kawamura</name>
+    </author>
+    <author>
+      <name>Chris Done</name>
+    </author>
+    <author>
+      <name>Magnus Axelsson</name>
+    </author>
+    <author>
+      <name>Tadayuki Takahashi</name>
+    </author>
+    <arxiv:doi>10.1093/mnras/stad014</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1093/mnras/stad014" title="doi"/>
+  </entry>
+</feed>

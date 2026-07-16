@@ -1,0 +1,645 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/GEdYfz5i2QAjUu5fAcNaulD/ANU</id>
+  <title>arXiv Query: search_query=all:"magnetically arrested disk" AND cat:astro-ph.HE&amp;id_list=&amp;start=0&amp;max_results=25</title>
+  <updated>2026-07-16T14:50:16Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22magnetically+arrested+disk%22+AND+cat:astro-ph.HE&amp;start=0&amp;max_results=25&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>25</opensearch:itemsPerPage>
+  <opensearch:totalResults>170</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2607.07784v1</id>
+    <title>The SANE, the MAD, and the Chimera</title>
+    <updated>2026-07-08T18:00:00Z</updated>
+    <link href="https://arxiv.org/abs/2607.07784v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.07784v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Non-radiative black hole accretion flows are commonly classified by their magnetic flux state, with standard and normal evolution (SANE) disks and magnetically arrested disks (MADs) marking the usual weak- and strong-flux regimes. We compare three-dimensional general relativistic magnetohydrodynamics simulations of a weakly magnetized SANE flow, a standard MAD, and a Chimera flow fed by a different reservoir of mass, angular momentum, and coherent magnetic flux. The Chimera reaches a MAD-level horizon magnetic flux and launches a powerful electromagnetic jet during an extended non-eruptive interval, showing that a flow can maintain large horizon flux and jet power without sharing the standard MAD's bursty horizon-flux variability, mass-flow distribution, or inner-flow morphology. In the SANE flow, we show that radial support is primarily hydrodynamic and provided by gas pressure gradients, whereas in MAD flows, magnetic pressure and tension enter the radial force budget at comparable order and help regulate the inner flow dynamics. The Chimera remains distinct from the standard MAD in its density structure, funnel-wall geometry, mass-flow channels, radial force budget, and angular-momentum transport throughout the analyzed evolution. We therefore argue that MAD-like behavior is not captured by any single diagnostic, but by a dynamical coupling among horizon flux, jet power, magnetic support, Maxwell transport, surface-layer flow, disk morphology, and eruption activity. The Chimera shows that these outcomes can be separated by accretion history and magnetic-flux supply.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-08T18:00:00Z</published>
+    <arxiv:comment>22 pages, 13 figures</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>George N. Wong</name>
+    </author>
+    <author>
+      <name>James M. Stone</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2607.06671v1</id>
+    <title>Probing magnetized accretion disk-jet systems: stellar mass to supermassive black holes</title>
+    <updated>2026-07-07T18:00:04Z</updated>
+    <link href="https://arxiv.org/abs/2607.06671v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.06671v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Ubiquitous nature of accretion disks and associated jets in modern astrophysics is extreme for black holes. The current state-of-the-art of black hole activities lies with modeling of underlying general relativistic magnetohydrodynamic (GRMHD) flows. These simulations have shown the importance of magnetic fields in the generation of outflows/jets and the overall dynamical evolution of the accretion flow. They also reveal critical insights into mechanisms that influence accretion dynamics, jet formation and stability. This further sheds light on the underlying magnetic field configurations based on magnetic field saturation leading to Standard and Normal Evolution: SANE, and Magnetically Arrested Disk: MAD. By employing SKA's high-resolution imaging and sensitivity, we can directly compare simulation outcomes with observational data, validating our models and enhancing our understanding of these phenomena. Key to this investigation is the examination of magnetic fields and their associated polarization signatures. Comparing the observational data from SKA with GRMHD simulations will facilitate a deeper analysis of the polarization properties, which can reveal the magnetic field geometry and dynamics in these extreme environments. The VLBI capabilities of SKA will prove instrumental in understanding jet morphologies and spectra of these systems due to its high spatial resolution. Collating these observations with GRMHD simulations will lead to a better understanding of the jet generation mechanisms and their interaction with ambient medium. By integrating advanced GRMHD simulations with SKA's capabilities, we aim to bridge theoretical predictions and observations, ultimately contributing to a more comprehensive understanding of the behavior of accreting black holes and their jets.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-07T18:00:04Z</published>
+    <arxiv:comment>Published in Advancing Astrophysics with the SKA II (AASKAII), 2026 (arXiv:2606.20366). Report-no:AASKAII/Pathak01. Advancing Astrophysics with the SKA II (AASKAII) outlines the transformative scientific advances that will be enabled by the SKA telescopes</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Mayank Pathak</name>
+    </author>
+    <author>
+      <name>Rohan Raha</name>
+    </author>
+    <author>
+      <name>Banibrata Mukhopadhyay</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2606.31477v1</id>
+    <title>Multi-wavelength Emission Modeling from Accretion Flows around Isolated Black Holes Including Magnetic Flux Transport</title>
+    <updated>2026-06-30T10:53:15Z</updated>
+    <link href="https://arxiv.org/abs/2606.31477v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2606.31477v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Isolated stellar-mass black holes (IBHs) are expected to be abundant in the Milky Way, yet their electromagnetic signatures remain largely undetected. We investigate the detectability of IBHs in molecular clouds using a 1D, multi-wavelength emission model that incorporates magnetic flux transport controlled by the magnetic Prandtl number $P_m$. We find that magnetically arrested disks (MADs) form for $P_m\gtrsim 1$, where the magnetic flux threading the black hole is in a saturation value. On the other hand, MAD formation is restricted to a limited parameter range for $P_m&lt;1$, In our model, outer parts of accretion disks, around 100 gravitational radii, efficiently emit infrared photons detectable by WISE. This feature is not captured by the conventional one-zone model. X-ray emission depends strongly on $P_m$; For $P_m=1$ where MAD is formed, X-ray emission is dominated by nonthermal radiation, whereas inverse Compton emission becomes dominant for $P_m=0.5$ where the magnetic field is weaker than the saturation value. X-ray detection is plausible if they are in dense molecular-cloud filaments for $P_m\ge1$, although it is challenging for $P_m&lt; 1$. These results demonstrate that magnetic flux transport plays a key role in shaping the multiwavelength observational signatures of IBHs.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-06-30T10:53:15Z</published>
+    <arxiv:comment>16 pages, 10 figures. Submitted to The Astrophysical Journal</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Takumi Koshimizu</name>
+    </author>
+    <author>
+      <name>Shigeo S. Kimura</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2606.19320v1</id>
+    <title>GRMHD and GRRT Simulations of Black Hole Accretion: Flares, Precession, and Complex Spacetimes</title>
+    <updated>2026-06-17T17:47:45Z</updated>
+    <link href="https://arxiv.org/abs/2606.19320v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2606.19320v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This dissertation studies the electromagnetic signatures of accreting supermassive black holes using general relativistic magnetohydrodynamic simulations and covariant radiative-transfer calculations. It develops a unified numerical framework for modeling black-hole accretion, jet launching, flaring activity, and multi-band variability in Kerr, non-Kerr, and binary black-hole spacetimes.
+  For isolated Kerr black holes, I investigate how magnetic-field geometry affects accretion dynamics and transient emission. Multi-loop magnetic configurations naturally produce reconnection events and flux-rope structures that can power near-infrared flares from Sagittarius A*, while the evolving optical depth of expanding plasma explains delayed millimeter emission. I also show that in tilted magnetically arrested disks, magnetic torques can drive retrograde disk and jet precession.
+  The dissertation then applies the same framework to more complex spacetimes. Simulations of accretion onto regular loop-quantum black holes show that quantum-gravity corrections can modify photon-ring size, polarization structure, and jet power, leading to observational constraints from Event Horizon Telescope data. Finally, simulations of supermassive binary black holes in time-dependent spacetimes reveal how gravitational self-lensing, shock activity, and spin-orbit coupling shape multi-wavelength light curves and jet precession. Together, these results connect relativistic plasma dynamics with current and future observations of black-hole systems.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-06-17T17:47:45Z</published>
+    <arxiv:comment>PhD Thesis</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Hong-Xuan Jiang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2606.12543v1</id>
+    <title>Spectral analysis of magnetized advective accretion flows around rotating black holes</title>
+    <updated>2026-06-10T18:00:12Z</updated>
+    <link href="https://arxiv.org/abs/2606.12543v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2606.12543v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The spectra of an accretion disk around black holes are the basic diagnostic tool to enlighten the underlying flows and then black holes. Accretion flows around black holes, however, are controlled by parameters like the magnetic field, spin of the black hole, accretion rate and temperature of the flow. These quantities affect the (magneto)hydrodynamics of the flow thus consequently lead to variations in the spectrum. We first consider numerical steady state magnetohydrodynamic (MHD) solutions of magnetized accretion flows around black holes to study the dependence of the spectra on these disk properties. The spectrum exhibits strong dependence on the spin of the black hole, accretion rate, magnetic field and the electron temperature of the flow. Variations in these quantities influence the emission peaks and overall luminosity, which can be a tell-tale sign to extract physics of observed spectra. We further validate our results with general relativistic MHD (GRMHD) simulations using the standard and normal evolution (SANE) and magnetically arrested disk (MAD) vector potentials. We consider two black hole spins ($a=0.5$ and $a=0.9375$) to model the magnetic field configurations and study the resulting spectra by comparing MAD and SANE results. We find a large difference in the bolometric luminosities and the location of the emission peaks between SANE and MAD flows. Certain properties of the spectra, like, the ratio of synchrotron radiation to synchrotron self-Comptonization peaks in SANE and MAD, show drastically distinct features. The overall luminosity combined with such metrics can distinguish the magnetic field characteristics in astrophysical systems.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-06-10T18:00:12Z</published>
+    <arxiv:comment>20 pages including 16 figures (32 png files) and 2 tables; accepted for publication in ApJ</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Mayank Pathak</name>
+      <arxiv:affiliation>IISc</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Shubhrangshu Ghosh</name>
+      <arxiv:affiliation>SRMUS</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Banibrata Mukhopadhyay</name>
+      <arxiv:affiliation>IISc</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.27334v1</id>
+    <title>Supermassive Black Holes: modelling strongly and weakly magnetised misaligned accretion disks</title>
+    <updated>2026-05-26T17:41:46Z</updated>
+    <link href="https://arxiv.org/abs/2605.27334v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.27334v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this paper, we carry out a numerical study of misaligned accretion disks around spinning supermassive black holes. Here, we conduct a parameter survey covering a range of initial disk misalignment angles ($\mathcal{T}_\mathrm{init}=15^\circ, 45^\circ, 75^\circ$) with either the Magnetically Arrested Disk (MAD) or Standard And Normal Evolution (SANE) magnetic field configurations, using the general-relativistic magnetohydrodynamic (GRMHD) code KHARMA. We find that models in the MAD state can align with the black hole up to $\sim10 \, r_g$, even in extremely misaligned models ($\mathcal{T}_\mathrm{init}=75^\circ$), which has not been seen before. Models without a dynamically important magnetic field remain misaligned up to the black hole, with a maximum disk tilt at $\sim10 \, r_g$, the peak's radial distance from the black hole increases with increasing disk misalignment. However, the maximum disk tilt does not have a linear relationship with the initial disk misalignment, and appears to have a maximum value of $\sim50^\circ$. We also show misaligned disk simulations produced in KHARMA are consistent with other GRMHD codes, for a variety of problems.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-26T17:41:46Z</published>
+    <arxiv:comment>13 pages, 12 figures</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Joshua Samuel Stanway</name>
+    </author>
+    <author>
+      <name>Cora Prather</name>
+    </author>
+    <author>
+      <name>Derek Ward-Thompson</name>
+    </author>
+    <author>
+      <name>Timothy J. Walton</name>
+    </author>
+    <author>
+      <name>Brett Patterson</name>
+    </author>
+    <author>
+      <name>Hyerin Cho</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.17460v1</id>
+    <title>GRMHD Simulations of Magnetized Accretion Disk/Jet: Variabilities of Black Holes and Spectral Energy Distributions in Magnetic States</title>
+    <updated>2026-05-17T14:02:18Z</updated>
+    <link href="https://arxiv.org/abs/2605.17460v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.17460v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We perform three-dimensional general relativistic magnetohydrodynamic (GRMHD) simulations of a near-maximally spinning black hole (spin parameter, a = 0.998) with varying initial magnetic field geometries, systematically exploring the parameter space connecting magnetically arrested disk (MAD), intermediate (INT), and standard and normal evolution (SANE) accretion states. The magnetic flux threading the black hole horizon emerges as the fundamental state variable controlling jet efficiency, flow magnetization, and radiative output across all three states. We introduce complementary diagnostics-broadband spectral energy distributions spanning radio through hard X-ray frequencies and time-resolved X-ray light curves-that together connect simulation dynamics directly to multiwavelength observables. The radiative output follows a clear MAD &gt; INT &gt; SANE hierarchy in time-averaged luminosity, mean X-ray emission, as well as variability. Furthermore, MAD exhibits the highest fractional variability through quasi-periodic magnetic flux eruption events, and INT and SANE show moderate variability driven by episodic reconnection and stochastic MRI turbulence, respectively. Scaling to GRS 1915+105, Cyg X-1, and HLX-1, we demonstrate that all twelve temporal classes of GRS 1915+105 map naturally onto our three magnetic states, Cyg X-1's persistent hard state is reproduced by a sustained INT configuration, and HLX-1's extreme luminosities arise through efficient Blandford-Znajek extraction in MAD states scaled to higher black hole mass.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-17T14:02:18Z</published>
+    <arxiv:comment>Published in Universe as an invited article to the Special Issue "Magnetized Dense Matter in Compact Stars: From Fundamental Properties to Astrophysical Observables", 30 pages, 8 Figures, 2 Tables</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <arxiv:journal_ref>Universe 2026, 12(5), 142</arxiv:journal_ref>
+    <author>
+      <name>Rohan Raha</name>
+    </author>
+    <author>
+      <name>Banibrata Mukhopadhyay</name>
+    </author>
+    <author>
+      <name>Koushik Chatterjee</name>
+    </author>
+    <arxiv:doi>10.3390/universe12050142</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3390/universe12050142" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.09326v1</id>
+    <title>Characterizing the Scale Height and Filamentary Structure of Radiatively Cooled MADs</title>
+    <updated>2026-05-10T04:59:10Z</updated>
+    <link href="https://arxiv.org/abs/2605.09326v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.09326v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Radiative cooling can strongly influence the structure and dynamics of black hole accretion disks. Here, we perform general relativistic magnetohydrodynamic (GR-MHD) simulations of magnetically arrested disks (MADs) around a non-spinning black hole. Radiative cooling is consistently included in the simulations and its intensity is scaled by the mass accretion rate ranging from $10^{-7}$ to $10^{-4} \dot{M}_{\mathrm{Edd}}$. Considering synchrotron and bremsstrahlung emission, we quantify how radiative losses modify the disk structure and the accretion dynamics. In the inner MAD disk regions, accumulation of magnetic field regulates gas accretion, enforcing the gas into a discrete interchange-driven filamentary structure. We identify, both analytically and numerically, a transition mass accretion rate above which radiative cooling becomes faster than the heating, which is assumed to occur via local coupling to the magnetic field. Above this mass accretion rate, cooling substantially reduces the gas thermal pressure, leading to considerably thinner and denser accretion filaments, and a substantial increase in radiative efficiency, relative to lower accretion rates. We show that under these conditions, conventional measures of the disk scale height become misleading in MAD flows. We therefore introduce an alternative definition based on the polar position of the density maximum, which more robustly characterizes the filamentary structure of the disks in the presence of strong magnetic fields and cooling.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-10T04:59:10Z</published>
+    <arxiv:comment>Submitted. Comments are welcome</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Akshay Singh</name>
+      <arxiv:affiliation>Bar-Ilan University</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Damien Begue</name>
+      <arxiv:affiliation>Bar-Ilan University</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Asaf Pe'er</name>
+      <arxiv:affiliation>Bar-Ilan University</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2604.16605v1</id>
+    <title>Possible fractal nature of accretion flows in MAD and SANE simulations: Implications to GRS 1915+105</title>
+    <updated>2026-04-17T18:00:57Z</updated>
+    <link href="https://arxiv.org/abs/2604.16605v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.16605v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The general relativistic magnetohydrodynamic (GRMHD) simulations are widely used to study accretion disk and jet dynamics around a black hole. Despite strong observational evidences for intrinsically nonlinear behavior, the interpretations of GRMHD simulation results, more precisely the underlying timeseries, have not been well-explored by nonlinear timeseries analysis. In this work, we characterize the jet and disk dynamics of different GRMHD simulated flows using the nonlinear timeseries analysis. As diagnostic tools, we consider Higuchi fractal dimension (HFD), Hurst Index (H) and spectral slope. We implement them for two model disk frameworks: magnetically arrested disk (MAD) and standard and normal evolution (SANE), across a range of black hole spins with the Kerr parameter spanning from -0.9375 to 0.9375. We simulate the disk/jet systems by two well-documented codes: HARMPI and BHAC, and obtain, respectively, low and high temporally resolved timeseries data. For both jet and disk dynamics, MADs are characterized by higher HFD, lower H and flatter spectral slopes than SANEs. High HFD in MAD could be due to its intermittent variability and indicates that it has lesser long-range temporal correlations than SANE. Moreover, HFD in MAD decreases with spin magnitude owing to increase in collimated, hence ordered, jets. However, in SANE, it increases with spin for positive ones due to interplay of winds and jets. Extending our analysis to observations, we attempt to segregate the classes of black hole: GRS 1915+105, into MAD- and SANE-like clusters based on their spectral properties extracted from X-ray data. The mean HFD of MAD-like cluster is higher than SANE-like cluster, thus, corroborating with the simulation results. Our work highlights the role of nonlinear timeseries analysis to understand the underlying dynamics of accretion flows and their connection to magnetic regulation.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.CD" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-17T18:00:57Z</published>
+    <arxiv:comment>18 pages, 10 figures. Comments are welcome</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Srishty Aggarwal</name>
+    </author>
+    <author>
+      <name>Rohan Raha</name>
+    </author>
+    <author>
+      <name>Mayank Pathak</name>
+    </author>
+    <author>
+      <name>Banibrata Mukhopadhyay</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2604.15430v1</id>
+    <title>GRMHD accretion beyond the black hole paradigm: Light from within the shadow</title>
+    <updated>2026-04-16T18:00:01Z</updated>
+    <link href="https://arxiv.org/abs/2604.15430v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.15430v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present the first three-dimensional general relativistic magnetohydrodynamic simulation of sustained accretion onto a horizonless singularity in which matter reaches the central object rather than being accumulated outside of it or expelled in outflows. We consider a Joshi-Malafarina-Narayan (JMN-1) spacetime, a well-motivated black hole mimicker that arises from gravitational collapse with anisotropic pressure in general relativity, and adopt a compactness parameter for which the central singularity is null. We find that the system evolves into a sustained magnetically arrested disk state. For parameters appropriate to the low-luminosity active galactic nucleus M87*, we obtain an accretion rate of $\sim(3.0 \pm 0.5)\times 10^{-6} \dot{M}_{\rm Edd}$, in full agreement with estimates based on black hole models and, in particular, comparable to that of our reference Schwarzschild black hole simulation. Synthetic ray-traced images at $230\,{\rm GHz}$, computed using polarized general relativistic radiative transfer, are broadly consistent with the Event Horizon Telescope observations of M87*. We identify a key observational discriminant between a black hole and JMN-1: the presence of detectable brightness inside of the ``observable" shadow of JMN-1. This emission originates very close to the central singularity, in a region that would be hidden behind the event horizon in a black hole spacetime. Although this signature is beyond the reach of current observations, it falls within the projected imaging dynamic range of next-generation radio interferometric instruments, offering a robust test of the black hole paradigm.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-16T18:00:01Z</published>
+    <arxiv:comment>9 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name> Saurabh</name>
+    </author>
+    <author>
+      <name>Maciek Wielgus</name>
+    </author>
+    <author>
+      <name>Parth Bambhaniya</name>
+    </author>
+    <author>
+      <name>Elisabete M. de Gouveia Dal Pino</name>
+    </author>
+    <author>
+      <name>Andrei P. Lobanov</name>
+    </author>
+    <author>
+      <name>Pankaj S. Joshi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2604.14313v1</id>
+    <title>The azimuthal structure of magnetically arrested disks during flux eruption events</title>
+    <updated>2026-04-15T18:13:40Z</updated>
+    <link href="https://arxiv.org/abs/2604.14313v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.14313v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We analyze data from a standard 3D general-relativistic magnetohydrodynamics (GRMHD) simulation, focusing on equatorial slices in order to examine the details and the evolution of the azimuthal structure of the accreting matter. During flux eruption events, the non-axisymmetric features of the equatorial inner accretion disk are considerably enhanced, with this enhancement being more prominent close to the black hole. Our analysis of the azimuthal structure of the equatorial accretion disk finds that the matter distribution in the vicinity of the horizon is dominated by low azimuthal mode numbers, specifically by the $m = 2$, and $m = 1$ modes, indicating that the non-axisymmetry of the disk during flux eruption events is enhanced due to the emergence of features with a large angular size on the equatorial plane. Our results suggest that the morphology of the equatorial accretion flow close to the black hole is mainly determined by the formation and motion of vertical magnetic flux bundles. These bundles are formed when the initially horizontal magnetic field reconnects into a vertical configuration, effectively detaching from the black hole horizon. This reconnection occurs in a low-density, highly magnetized region on the equatorial plane that expands over time as more field lines undergo vertical reconfiguration. The resulting vertical flux tubes, filled with low-density plasma, are then transported outwards due to magnetic buoyancy. Our results present a detailed quantitative description of the morphology of MADs and of its evolution during flux eruptions, complemented by a description of the physical process by which excess magnetic flux is detached from the black hole, vertically reconfigured, and expelled.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-15T18:13:40Z</published>
+    <arxiv:comment>12 pages, 10 figures. Accepted for publication in A&amp;A</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <arxiv:journal_ref>A&amp;A 710, A37 (2026)</arxiv:journal_ref>
+    <author>
+      <name>Argyrios Loules</name>
+    </author>
+    <author>
+      <name>Antonios Nathanail</name>
+    </author>
+    <author>
+      <name>Ioannis Contopoulos</name>
+    </author>
+    <arxiv:doi>10.1051/0004-6361/202555642</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1051/0004-6361/202555642" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2603.26239v2</id>
+    <title>Probing anisotropic particle acceleration and limb-brightening in Centaurus A's jet</title>
+    <updated>2026-03-30T10:02:58Z</updated>
+    <link href="https://arxiv.org/abs/2603.26239v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.26239v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Relativistic jets are among the most fascinating objects in the Universe, and recent high-resolution Very Long Baseline Interferometric (VLBI) observations, including the Global mm-VLBI Array and the Event Horizon Telescope (EHT), are able to resolve their structure close to their launching site. These observations reveal strongly limb-brightened jet structures for Centaurus A (Cen A), M 87 and 3C 84. Thus, the question arises which physical mechanism can generate the limb-brightened structure, and if this structure is common for jets from low-luminosity active galactic nuclei (LLAGN) seen under large viewing angles. Therefore, as a pilot study, we aim to model the EHT observations of Cen A. We performed a 3D two-temperature general-relativistic magnetohydrodynamic (GRMHD) simulation of an accreting supermassive black hole (SMBH) and jet launching to study the plasma dynamics and computed the connected emission via general relativistic radiative transfer (GRRT) calculations considering possible anisotropies in the distribution of the radiating particles. In order to adjust our simulations to the EHT observations of Cen A, we carried out a Bayesian fitting in the Fourier plane. We find that GRMHD simulations of magnetically arrested disks (MADs) combined with anisotropically emitting particle distributions along the direction of the magnetic field, parametrized by a value $η=0.07$, are able to mimic the recent EHT observations of Cen A. In addition, we extracted a black hole mass of $M_\mathrm{BH} = 6\times10^7 M_\odot$ and a viewing angle of $\vartheta=72°$. Our obtained model can reproduce key features of the EHT and Atacama Large Millimeter/submillimeter Array (ALMA) observations in total and polarized emission. Finally, we predict that the black hole shadow in Cen A will be observable at a frequency of $\sim$ 3 THz.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-27T10:02:50Z</published>
+    <arxiv:comment>Submitted to Astronomy &amp; Astrophysics</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Felix Glaser</name>
+    </author>
+    <author>
+      <name>Christian M. Fromm</name>
+    </author>
+    <author>
+      <name>Luca Ricci</name>
+    </author>
+    <author>
+      <name>Yosuke Mizuno</name>
+    </author>
+    <author>
+      <name>Matthias Kadler</name>
+    </author>
+    <author>
+      <name>Karl Mannheim</name>
+    </author>
+    <author>
+      <name>Michael Janssen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2603.24722v1</id>
+    <title>Photon Ring Astrometry I: A Simple Spin Measurement Technique for High-Resolution Images of M87*</title>
+    <updated>2026-03-25T18:49:05Z</updated>
+    <link href="https://arxiv.org/abs/2603.24722v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.24722v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The central supermassive black hole of the galaxy M87 is currently a target for precision spin measurement using high-resolution, horizon-scale imaging. Such observations aim to resolve the first lensed (${n}~{=}~{1}$) sub-image of the photon ring from the broader direct image. In this work, we identify a concrete observable -- the displacement between the centers of the ${n}~{=}~{1}$ photon-ring sub-image and the direct image -- and propose its use in a simple spin-measurement technique. Leveraging the assumption that the observed large-scale jet of M87 is aligned with the black-hole spin axis, we separate the relative position of the photon ring into components parallel and transverse to the projected spin axis, normalizing both components with respect to the measured diameter of the ${n}~{=}~{1}$ sub-image. We show that the parallel shift is primarily determined by inclination and emission radius, while the transverse shift is tightly correlated with inclination and spin. We demonstrate these effects both in a simple geometric model (to explain the underlying physics) and in GRMHD simulations with magnetically arrested disks (to provide realistic instantiations of the effect). We find that a relative astrometric resolution of ${\lesssim}~{0.1\;μ\rm{as}}$ is sufficient to constrain the spin to better than 9% if the accretion flow is prograde or 22% if the flow is retrograde. If the direction of the accretion flow is undetermined, the spin can be constrained to within 26%. More generally, this identifies relative photon ring astrometry as a promising method to constrain the underlying spacetime geometry and introduces a spin-constraint technique that does not rely on geometric modeling of the observed emission.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-25T18:49:05Z</published>
+    <arxiv:comment>15 page, 7 figures, 1 table</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Delilah E. A. Gates</name>
+    </author>
+    <author>
+      <name>Dominic O. Chang</name>
+    </author>
+    <author>
+      <name>Aaron Held</name>
+    </author>
+    <author>
+      <name>Daniel C. M. Palumbo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2603.20701v1</id>
+    <title>Synchrotron Self-Absorption Spectral Modeling Reveals a Magnetically Driven Shock-in-Jet Scenario in Blazar 1156+295</title>
+    <updated>2026-03-21T07:53:07Z</updated>
+    <link href="https://arxiv.org/abs/2603.20701v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.20701v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Unveiling the launching and driving mechanisms of powerful jets in active galactic nuclei (AGNs) is crucial for understanding the co-evolution of supermassive black holes (SMBHs) and their host galaxies. 1156+295 is a blazar at a redshift of z=0.729 and exhibits significant variability in long-term radio monitoring. Using multi-frequency Effelsberg single-dish flux density data from 2007 to 2012, we performed synchrotron self-absorption (SSA) spectral modeling and extracted the turnover frequency and turnover flux density. By combining SSA spectral modeling with the core size and brightness temperature from quasi-simultaneous very long baseline interferometry (VLBI) images, we estimated the jet magnetic-field strength and magnetic flux, and investigated their temporal evolution in 1156+295. The evolution of radio flux density, spectral shape, and jet structure is consistent with the shock-in-jet framework. The inferred magnetic flux reaching or exceeding the magnetically arrested disk (MAD) threshold, together with evidence that magnetic energy release precedes the radio flares, supports a magnetically driven jet scenario. Overall, our results place magnetic-field measurements, spectral evolution, and inner-jet structural changes on a common timeline, providing observational constraints on their coupled evolution during flares.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.GA" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-21T07:53:07Z</published>
+    <arxiv:comment>Accepted for publication in The Astrophysical Journal (ApJ). 20 pages, 6 figures, 5 tables</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Wancheng Xu</name>
+    </author>
+    <author>
+      <name>Lang Cui</name>
+    </author>
+    <author>
+      <name>Tao An</name>
+    </author>
+    <author>
+      <name>Sándor Frey</name>
+    </author>
+    <author>
+      <name>Xin Wang</name>
+    </author>
+    <author>
+      <name>Yuanqi Liu</name>
+    </author>
+    <author>
+      <name>Ning Chang</name>
+    </author>
+    <author>
+      <name>Liang Chen</name>
+    </author>
+    <author>
+      <name>Yingkang Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2603.11452v1</id>
+    <title>Three-dimensional Global Relativistic Radiation Magnetohydrodynamics of Magnetically Arrested Disk Accretion Flows in AGNs</title>
+    <updated>2026-03-12T02:26:46Z</updated>
+    <link href="https://arxiv.org/abs/2603.11452v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.11452v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We perform three-dimensional radiation-relativistic magnetohydrodynamic (3D Rad-RMHD) simulations of accretion flows around spinning active galactic nuclei (AGNs). Our study focuses on the magnetically arrested disk (MAD) state, adopting a single-temperature model that includes bremsstrahlung opacity as the sole radiation process while varying the black hole spin from non-spinning to rapidly spinning cases. We find that the MAD state persists across all spin values, as demonstrated by the normalized magnetic flux at the horizon and the physically motivated spatially averaged plasma beta. The overall flow dynamics remain qualitatively similar for all spin models in 3D flow, suggesting that black hole spin has minimal influence on the accretion dynamics. In addition, we conduct post-processing using a two-temperature model to calculate the luminosities from synchrotron and bremsstrahlung radiation. We find that the total radiation luminosity is significantly higher than the luminosities from synchrotron and bremsstrahlung. This finding highlights the influence of radiation on the dynamics of the accretion flow. Our analysis shows that the electron temperature is significantly high in the jet region, regardless of spin. We further find that the temporal evolution of both radiative and synchrotron luminosities exhibits qualitatively similar behavior across all spin values. Finally, our results indicate that black hole spin has minimal impact on the spectral energy distribution (SED) in MAD state accretion flows.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-12T02:26:46Z</published>
+    <arxiv:comment>23 pages, 12 figures, 2 tables, Accepted for publication in ApJ</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Ramiz Aktar</name>
+    </author>
+    <author>
+      <name>Kuo-Chuan Pan</name>
+    </author>
+    <author>
+      <name>Toru Okuda</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2603.10792v2</id>
+    <title>Electromagnetic Signatures of Supermassive Binary Black Holes: Synchrotron, Self-Lensing Flares, and Jet Precession</title>
+    <updated>2026-06-17T07:56:51Z</updated>
+    <link href="https://arxiv.org/abs/2603.10792v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.10792v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The recent evidence for a nanohertz gravitational wave background from Pulsar Timing Arrays highlights the urgent need to identify electromagnetic counterparts to supermassive binary black holes. Here, we perform global 3D general relativistic magnetohydrodynamic (GRMHD) simulations of a secondary black hole (mass ratio $q=0.1$) interacting with a Magnetically Arrested Disk around a primary black hole using a time-dependent superposed Kerr-Schild metric and post-processed general relativistic radiation transfer calculations based on thermal electron distribution function (eDF). We explore three orbital configurations: a vertical impact orbit, a coplanar embedded orbit, and a high-spin, eccentric, inclined scenario. Despite clear orbital periodicity and recurrent shock formation, the thermal synchrotron light curves frequently lack expected shock-induced flares. In vertical impacts, shock brightenings are typically sub-dominant to the stochastic MAD variability of the primary black hole, unless viewed at specific alignment phases. Conversely, coplanar orbits produce distinctive, rapid flares driven by gravitational self-lensing. We identify a frequency-dependent emission hierarchy: the primary black hole dominates sub-millimeter flux, while the secondary dominates near-infrared emission due to higher electron temperatures in thermal eDF. Finally, spin-orbit coupling drives Lense-Thirring precession, yielding twisted, wobbling jets that following the tilt and precession of the primary BH. Crucially, we show that intrinsic MAD turbulence can easily mask shock-induced radio flares, making self-lensing flares a more reliable electromagnetic counterpart candidate for supermassive binary black holes.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-11T14:03:08Z</published>
+    <arxiv:comment>22 pages, 16 figures, accepted by ApJ</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Hong-Xuan Jiang</name>
+    </author>
+    <author>
+      <name>Xinyu Li</name>
+    </author>
+    <author>
+      <name>Jing-Ze Xia</name>
+    </author>
+    <author>
+      <name>Yosuke Mizuno</name>
+    </author>
+    <author>
+      <name>Ziri Younsi</name>
+    </author>
+    <author>
+      <name>Christian M. Fromm</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2603.08296v1</id>
+    <title>Compression-Driven Kinetic Instabilities in Magnetically Arrested Disks</title>
+    <updated>2026-03-09T12:17:02Z</updated>
+    <link href="https://arxiv.org/abs/2603.08296v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.08296v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Event horizon-scale observations of low-luminosity black hole accretion flows favor magnetically arrested disks, characterized by dynamically important magnetic fields ($β\lesssim1$, where $β$ is the ratio of plasma thermal pressure to magnetic pressure) and a two-temperature transrelativistic plasma. Motivated by plasma conditions in the synchrotron-emitting regions of these models, we perform 2D particle-in-cell simulations of electron-ion plasmas with a realistic mass ratio, subject to continuous compression perpendicular to the mean magnetic field $\boldsymbol{B}_0$. Conservation of particle magnetic moments drives pressure anisotropy $P_{\perp}&gt;P_{\parallel}$, triggering anisotropy-driven instabilities. For ion plasma beta $β_{i0}=0.5$ and ion temperature $k_{\text{B}}T_{i0}/m_i c^2=0.05$, the ion pressure anisotropy is regulated by the ion cyclotron instability, while the mirror mode influences the late-time electron anisotropy. Both species develop nonthermal components at high energies, consistent with stochastic acceleration by cyclotron-scale fluctuations. We characterize how the onset and time evolution of the plasma instabilities, as well as the resulting ion and electron anisotropies and energy spectra, vary with $β_{i0}$, $k_{\text{B}}T_{i0}/m_i c^2$, electron-to-ion temperature ratio $T_{e0}/T_{i0}$, and the compression rate. Increasing the thermal energy toward relativistic values raises the anisotropy thresholds for all instabilities observed in our simulations, allowing larger anisotropies to develop. For $T_{e0}/T_{i0}&lt;1$, as expected in collisionless two-temperature accretion flows, the growth of mirror and whistler instabilities is delayed or suppressed, leading to increasingly adiabatic evolution of the electrons. Our findings can be used to inform global fluid models of black hole accretion.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-09T12:17:02Z</published>
+    <arxiv:comment>26 pages, 19 figures, submitted to ApJ</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Vedant Dhruv</name>
+    </author>
+    <author>
+      <name>Lorenzo Sironi</name>
+    </author>
+    <author>
+      <name>Jordy Davelaar</name>
+    </author>
+    <author>
+      <name>Aaron Tran</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2603.07029v1</id>
+    <title>Interpreting Swift and NuSTAR Observations of the Low-Luminosity Active Galactic Nucleus NGC 4278 with Radiatively Inefficient Accretion Flows and Implications for Neutrino Emission</title>
+    <updated>2026-03-07T04:22:03Z</updated>
+    <link href="https://arxiv.org/abs/2603.07029v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.07029v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We report the first NuSTAR hard X-ray observations of the low-luminosity active galactic nucleus NGC 4278. The source is clearly detected beyond 10 keV with a hard X-ray spectrum consistent with a power law of photon index between 2.2 and 2.5 without evidence for a high-energy cutoff. The X-ray flux is low compared to the active state in 2021, but exhibits variability by a factor of ~2 on a timescale of a month. We discuss the origin of the hard X-ray emission and explore its connection to gamma rays and high-energy neutrinos. We explain the X-ray data, including both quiescent and active states, using a radiatively inefficient accretion flow (RIAF) model with a variable accretion rate. We also show that TeV gamma rays cannot escape from the RIAF disk, and very high-energy gamma rays observed in LHAASO are likely to originate from outer regions such as jets and winds, which is consistent with our results favoring a magnetically arrested disk. We also discuss hidden neutrino emission from RIAFs together with possible connections to coronae of active galactic nuclei with standard, radiatively efficient disks.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-07T04:22:03Z</published>
+    <arxiv:comment>Submitted for publication in ApJ, 11 pages, 9 figures, 2 tables</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Abhishek Das</name>
+    </author>
+    <author>
+      <name>Qi Feng</name>
+    </author>
+    <author>
+      <name>Eleanor Young</name>
+    </author>
+    <author>
+      <name>Ashwani Pandey</name>
+    </author>
+    <author>
+      <name>Shigeo S. Kimura</name>
+    </author>
+    <author>
+      <name>Kohta Murase</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.22824v1</id>
+    <title>Black hole Limits Redefined: Extreme Efficiency in Black Hole Jets</title>
+    <updated>2026-02-26T10:05:18Z</updated>
+    <link href="https://arxiv.org/abs/2602.22824v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.22824v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Relativistic jets from black holes can extract energy not only from accretion but also directly from the black hole's spin, as described by the Blandford-Znajek mechanism. A longstanding question is whether magnetic flux can accumulate near the event horizon to such an extent that it halts accretion entirely, enabling energy extraction purely from spin. Previous studies have shown that accretion persists through instabilities and that jet power only modestly exceeds the accretion energy budget, yet some observational results suggest much higher efficiencies. Here we present state-of-the-art general relativistic magnetohydrodynamic (GRMHD) simulations that sustain a quasi-steady magnetically arrested disk state for approximately 10,000 dynamical times, during which accretion is globally suppressed across the full azimuthal extent. In this regime, jet power exceeds the accretion energy input by more than two orders of magnitude, demonstrating a previously unachieved level of efficiency. These results challenge conventional assumptions about the limits of black hole energy extraction and suggest a new framework for interpreting powerful jet systems. Our findings raise important questions about the long-term stability of such states and the fundamental limits of the Blandford-Znajek process.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-26T10:05:18Z</published>
+    <arxiv:comment>Submitted</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Antonios Nathanail</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.22168v1</id>
+    <title>Collisionless Accretion of Finite-Angular-Momentum Plasma onto a Spinning Black Hole</title>
+    <updated>2026-02-25T18:15:31Z</updated>
+    <link href="https://arxiv.org/abs/2602.22168v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.22168v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In low-luminosity active galactic nuclei like M87* and Sgr A*, the accretion disk around the central supermassive black hole is tenuous and collisionless. As a result, the usual ideal magnetohydrodynamics (MHD) approximation may not be applicable. In this Letter, we report on the first fully kinetic simulations of the accretion process where the plasma initially has finite angular momentum. The simulated accretion flow behaves remarkably similarly to the magnetically arrested disk (MAD) regime of ideal MHD, reproducing episodes of magnetic flux saturation and eruption typical of MADs. The resemblance to fluid models owes largely to kinetic instabilities, which regulate pressure anisotropy in the disk, allowing fluid terms to dominate the angular momentum transfer. In addition, by handling vacuum regions effectively, our kinetic approach probes the matter supply to the jet funnel. We observe no efficient penetration of the accreting material into this region, which suggests that a pair discharge may be required to sustain the Blandford-Znajek process.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-25T18:15:31Z</published>
+    <arxiv:comment>11 pages, 4 figures, comments welcome!</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>John M. Mehlhaff</name>
+    </author>
+    <author>
+      <name>Alexander Y. Chen</name>
+    </author>
+    <author>
+      <name>Martin Luepker</name>
+    </author>
+    <author>
+      <name>Yajie Yuan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.12165v1</id>
+    <title>Poloidal Field Amplification through Compression-Shear Dynamics in Schwarzschild Accretion: Pathways to MAD States</title>
+    <updated>2026-02-12T16:47:08Z</updated>
+    <link href="https://arxiv.org/abs/2602.12165v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.12165v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The amplification of magnetic fields in black hole accretion flows governs key high-energy phenomena such as magnetically arrested disks and relativistic jets. We develop a semi-analytical general relativistic framework that extends classical compressional amplification models by incorporating rotational shear, and apply it to large-scale poloidal magnetic field evolution in accretion flows around a Schwarzschild black hole. By parameterizing the azimuthal velocity as a fraction of the Keplerian value ($ξ\in [0,1]$), from purely radial infall ($ξ=0$) to Keplerian rotation ($ξ=1$), we examine the combined effects of radial compression and shear. Purely radial flows maximize amplification of both $B_r$ and $B_θ$ due to strong compression. In rotating flows, a distinct dichotomy emerges: sub-Keplerian regimes ($ξ&lt;1$) preferentially enhance $B_r$, whereas Keplerian rotation strengthens $B_θ$ via shear. The transition from subsonic outer regions to supersonic relativistic inner regions further accelerates magnetic growth, revealing effects absent in earlier analytical treatments. These results show that rotational support controls both amplification efficiency and magnetic geometry, with sub-Keplerian phases particularly favorable for advecting the radial flux required for MAD formation. This work provides an analytical bridge between classical accretion theory and modern GRMHD simulations, with implications for X-ray binaries, AGNs, and EHT-scale systems.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-12T16:47:08Z</published>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Malihe Mousapour Gharghabi</name>
+    </author>
+    <author>
+      <name>Jamshid Ghanbari</name>
+    </author>
+    <author>
+      <name>Mahboobe Moeen Moghaddas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.11094v1</id>
+    <title>Future Perspectives on Black Hole Jet Mechanisms: Insights from Next-Generation Observatories and Theoretical Developments</title>
+    <updated>2026-02-11T18:07:01Z</updated>
+    <link href="https://arxiv.org/abs/2602.11094v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.11094v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Black hole jets represent one of the most extreme manifestations of astrophysical processes, linking accretion physics, relativistic magnetohydrodynamics, and large-scale feedback in galaxies and clusters. Despite decades of observational and theoretical work, the mechanisms governing jet launching, collimation, and energy dissipation remain open questions. In this article, we discuss how upcoming facilities such as the Event Horizon Telescope (EHT), the Cherenkov Telescope Array (CTA), the Vera C. Rubin Observatory (LSST), and the Whole Earth Blazar Telescope (WEBT) will provide unprecedented constraints on jet dynamics, variability, and multi-wavelength signatures. Furthermore, we highlight theoretical challenges, including the role of magnetically arrested disks (MADs), plasma microphysics, and general relativistic magnetohydrodynamic (GRMHD) simulations in shaping our understanding of jet formation. By combining high-resolution imaging, time-domain surveys, and advanced simulations, the next decade promises transformative progress in unveiling the physics of black hole jets.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-11T18:07:01Z</published>
+    <arxiv:comment>45 pages; 12 figures; This is the published version</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <arxiv:journal_ref>Universe 2026, Volume 12, 24</arxiv:journal_ref>
+    <author>
+      <name>Andre L. B. Ribeiro</name>
+    </author>
+    <author>
+      <name>Nathalia M. N. da Rocha</name>
+    </author>
+    <arxiv:doi>10.3390/universe12010024</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3390/universe12010024" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.21216v1</id>
+    <title>Exploring the Role of Vector Potential and Plasma-$β$ in Jet Formation from Magnetized Accretion Flows</title>
+    <updated>2025-12-24T14:57:36Z</updated>
+    <link href="https://arxiv.org/abs/2512.21216v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.21216v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this work, we investigate how the choice of initial vector potential and plasma parameters influences the development of accretion columns and jet formation in magnetized accretion flows. Using general relativistic magnetohydrodynamic simulations, we explore two different configurations of the vector potential $A_φ$ and three plasma beta values $β$ = 50, 100, 500. We analyze how variations in the poloidal magnetic field strength and plasma magnetization affect magnetic flux accumulation near the black hole and the subsequent growth of the accretion column. Our results highlight the dependence of jet launching efficiency and accretion dynamics on the initial magnetic field topology and plasma beta, offering insight into the conditions that favor magnetically arrested disk or standard and normal evolution states.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-24T14:57:36Z</published>
+    <arxiv:comment>11 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <arxiv:journal_ref>Universe Universe 2025, 11(12), 404; Special Issue New Progress of Black Hole Accretion Disk</arxiv:journal_ref>
+    <author>
+      <name>Ishika Palit</name>
+    </author>
+    <author>
+      <name>Miles Angelo Paloma Sodejana</name>
+    </author>
+    <author>
+      <name>Hsiang-Yi Karen Yang</name>
+    </author>
+    <arxiv:doi>10.3390/universe11120404</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3390/universe11120404" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.06803v2</id>
+    <title>Non-thermal Synchrotron Emission and Polarization Signatures during Black Hole Flux Eruptions</title>
+    <updated>2026-04-10T10:06:49Z</updated>
+    <link href="https://arxiv.org/abs/2512.06803v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.06803v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this work, we investigate synchrotron emission and the observational signatures of anisotropic non-thermal electrons during magnetic-flux eruptions in a magnetically arrested disk, using 3D GRMHD simulations. Non-thermal electrons are assumed to be accelerated from the thermal background through magnetic reconnection, with pitch-angle distributions modeled as beamed or loss-cone types, alongside an isotropic case for comparison. The results show that non-thermal emission can produce pronounced flux outbursts and localized brightening during eruptions, while the associated increase in optical depth can suppress the linear polarization fraction. Introducing pitch-angle anisotropy further reshapes the angular distribution of the intrinsic emissivity and modulates its contribution to various observable signatures. Strong field-aligned beaming in the electron distribution suppresses non-thermal emission for near-axis observers, effectively driving the image morphology toward a purely thermal limit. In contrast, moderately anisotropic models remain effective at imprinting non-thermal electron signatures on both the total intensity and polarization structure. We further quantify how eruption-driven increases in absorption depth and enhanced Faraday effects reduce the linear polarization fraction and modify the azimuthal coherence of the polarization field. Overall, our results demonstrate that incorporating anisotropic non-thermal electrons is essential for a physically self-consistent interpretation of time-variable EHT polarimetric observations.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-07T11:37:31Z</published>
+    <arxiv:comment>24 pages, 14 figures, 1 table</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Fan Zhou</name>
+    </author>
+    <author>
+      <name>Jiewei Huang</name>
+    </author>
+    <author>
+      <name>Yuehang Li</name>
+    </author>
+    <author>
+      <name>Zhenyu Zhang</name>
+    </author>
+    <author>
+      <name>Yehui Hou</name>
+    </author>
+    <author>
+      <name>Minyong Guo</name>
+    </author>
+    <author>
+      <name>Bin Chen</name>
+    </author>
+    <arxiv:doi>10.3847/1538-4357/ae5e67</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3847/1538-4357/ae5e67" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2510.25842v1</id>
+    <title>Demystifying flux eruptions: Magnetic flux transport in magnetically arrested disks</title>
+    <updated>2025-10-29T18:00:04Z</updated>
+    <link href="https://arxiv.org/abs/2510.25842v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2510.25842v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Magnetically arrested disks (MADs) are a compelling model for explaining variability in low-luminosity active galactic nuclei (AGN), including horizon-scale outbursts like those observed in Sagittarius A*. MADs experience powerful flux eruptions-episodic ejections of magnetic flux from the black hole horizon-that may drive the observed luminosity variations. In this work, we develop and validate a new formalism describing large-scale magnetic field transport in general relativistic magnetohydrodynamic simulations of MADs with geometrical thicknesses of $h/R=0.1$ and $h/R=0.3$. We introduce a net flux transport velocity, $v_Φ$, which accounts for both advective and diffusive processes. We show that MADs maintain a statistical quasi-steady state where advection and diffusion nearly balance. Flux eruptions appear as small deviations from this equilibrium, with $v_Φ/V_k\ll1$, where $V_k$ is the local Keplerian velocity. Using this framework, we analytically derive a recurrence timescale for flux eruptions, $t_{\rm rec}\sim1500\, r_g/c$. This timescale closely matches simulation results. The smallness of $v_Φ$ explains the long recurrence times of flux eruptions compared to other system timescales. We also take a closer look at the diffusion of the magnetic field by performing the first measurement of turbulent resistivity in MADs. We then estimate the turbulent magnetic Prandtl number, defined as the ratio of turbulent viscosity to turbulent resistivity. We find $\mathcal{P}_m\sim3$, consistent with shearing-box simulations of magneto rotational instability-driven turbulence. While flux eruptions excite large-scale non-axisymmetric modes and locally enhance turbulent resistivity, magnetic field diffusion is dominated by smaller-scale turbulent motions. These results provide new insight into the nature of AGN variability and the fundamental physics of magnetic field transport.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-10-29T18:00:04Z</published>
+    <arxiv:comment>We welcome comments, submitted to ApJ</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Jonatan Jacquemin-Ide</name>
+    </author>
+    <author>
+      <name>Mitchell C. Begelman</name>
+    </author>
+    <author>
+      <name>Beverly Lowell</name>
+    </author>
+    <author>
+      <name>Matthew Liska</name>
+    </author>
+    <author>
+      <name>Jason Dexter</name>
+    </author>
+    <author>
+      <name>Alexander Tchekhovskoy</name>
+    </author>
+  </entry>
+</feed>

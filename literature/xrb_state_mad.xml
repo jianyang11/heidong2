@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/uf8dgEfy5glRLisxoXx+HarsUac</id>
+  <title>arXiv Query: search_query=all:"X-ray binary" AND all:"state transition" AND all:"magnetic flux"&amp;id_list=&amp;start=0&amp;max_results=20</title>
+  <updated>2026-07-16T14:50:25Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22X-ray+binary%22+AND+(all:%22state+transition%22+AND+all:%22magnetic+flux%22)&amp;start=0&amp;max_results=20&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+  <opensearch:totalResults>5</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2409.05467v3</id>
+    <title>Rapid, strongly magnetized accretion in the zero-net-vertical-flux shearing box</title>
+    <updated>2025-04-14T02:00:45Z</updated>
+    <link href="https://arxiv.org/abs/2409.05467v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2409.05467v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We show that there exist two qualitatively distinct turbulent states of the zero-net-vertical-flux shearing box. The first, which has been studied in detail previously, is characterized by a weakly magnetized ($β\sim50$) midplane with slow periodic reversals of the mean azimuthal field (dynamo cycles). The second, the 'low-$β$ state,' which is the main subject of this paper, is characterized by a strongly magnetized $β\sim 1$ midplane dominated by a coherent azimuthal field with much stronger turbulence and much larger accretion stress ($α\sim 1$). The low-$β$ state emerges in simulations initialized with sufficiently strong azimuthal magnetic fields. The mean azimuthal field in the low-$β$ state is quasi steady (no cycles) and is sustained by a dynamo mechanism that compensates for the continued loss of magnetic flux through the vertical boundaries; we attribute the dynamo to the combination of differential rotation and the Parker instability, although many of its details remain unclear. Vertical force balance in the low-$β$ state is dominated by the mean magnetic pressure except at the midplane, where thermal pressure support is always important (this holds true even when simulations are initialized at $β\ll 1$, provided the thermal scale height of the disk is well resolved). The efficient angular momentum transport in the low-$β$ state may resolve long-standing tension between predictions of magnetorotational turbulence (at high $β$) and observations; likewise, the bifurcation in accretion states we identify may be important for understanding the state transitions observed in dwarf novae, X-ray binaries, and changing-look AGN. We discuss directions for future work, including the implications of our results for global accretion disk models and simulations.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.GA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-09-09T09:49:57Z</published>
+    <arxiv:comment>Accepted for publication in the Open Journal of Astrophysics</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Jonathan Squire</name>
+    </author>
+    <author>
+      <name>Eliot Quataert</name>
+    </author>
+    <author>
+      <name>Philip F. Hopkins</name>
+    </author>
+    <arxiv:doi>10.33232/001c.136467</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.33232/001c.136467" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2401.05482v1</id>
+    <title>Local models of two-temperature accretion disc coronae. II. Ion thermal conduction and the absence of disc evaporation</title>
+    <updated>2024-01-10T19:00:00Z</updated>
+    <link href="https://arxiv.org/abs/2401.05482v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2401.05482v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We use local stratified shearing-box simulations with magnetic field-aligned thermal conduction to study an idealized model of the coupling between a cold, radiatively efficient accretion disc, and an overlying, hot, two-temperature corona. Evaporation of a cold disc by conduction from the hot corona has been proposed as a means of mediating the soft-to-hard state transitions observed in X-ray binary systems. We model the coronal plasma in our local disc patch as an MHD fluid subject to both free-streaming ion conduction and a parameterized cooling function that captures the collisional transfer of energy from hot ions to colder, rapidly cooling leptons. In all of our models, independent of the initial net vertical magnetic flux (NF) threading the disc, we find no evidence of disc evaporation. The ion heat flux into the disc is radiated away before conduction can heat the disc's surface layers. When an initial NF is present, steady-state temperature, density, and outflow velocities in our model coronae are unaffected by conduction. Instead of facilitating disc evaporation, thermal conduction is more likely to feed the disc with plasma condensing out of the corona, particularly in flows without NF. Our work indicates that uncertainties in the amount of NF threading the disc hold far greater influence over whether or not the disc will evaporate into a radiatively inefficient accretion flow compared to thermal conduction. We speculate that a change in net flux mediates disc truncation/evaporation.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-01-10T19:00:00Z</published>
+    <arxiv:comment>14 pages, 7 figures, 1 table, 2 appendices, submitted to MNRAS</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Christopher J. Bambic</name>
+    </author>
+    <author>
+      <name>Eliot Quataert</name>
+    </author>
+    <author>
+      <name>Matthew W. Kunz</name>
+    </author>
+    <author>
+      <name>Yan-Fei Jiang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2309.16092v1</id>
+    <title>High-soft to low-hard state transition in black hole X-ray binaries with GRMHD simulations</title>
+    <updated>2023-09-28T01:25:35Z</updated>
+    <link href="https://arxiv.org/abs/2309.16092v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2309.16092v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>To understand the decaying phase of outbursts in the black hole (BH) X-ray binaries (BH-XRBs), we performed very long general relativistic magneto-hydrodynamic (GRMHD) simulations of a geometrically thin accretion disk around a Kerr BH with slowly rotating matter injected from outside. We thoroughly studied the flow properties, dynamical behavior of the accretion rate, magnetic flux rate, and jet properties during the temporal evolution. Due to the interaction between the thin disk and injected matter, the accretion flow near the BH goes through different phases. The sequence of phases is: soft state $\rightarrow$ soft-intermediate state $\rightarrow$ hard-intermediate state $\rightarrow$ hard state $\rightarrow$ quiescent state. For the accretion rate (and hence the luminosity) to decrease (as observed) in our model, the mass injection should not decay slower than angular momentum injection. We also observed quasi-periodic oscillations (QPOs) in the accretion flow. Throughout the evolution, we observed low-frequency QPOs (~10Hz) and high-frequency QPOs (\sim 200Hz). Our simple unified accretion flow model for state transitions is able to describe outbursts in BH-XRBs.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-09-28T01:25:35Z</published>
+    <arxiv:comment>13 pages, 11 figures, Accepted for publication on ApJ</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>I. K. Dihingia</name>
+    </author>
+    <author>
+      <name>Y. Mizuno</name>
+    </author>
+    <author>
+      <name>P. Sharma</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2309.15926v2</id>
+    <title>Magnetic flux plays an important role during a BHXRB outburst in radiative 2T GRMHD simulations</title>
+    <updated>2024-03-27T15:25:15Z</updated>
+    <link href="https://arxiv.org/abs/2309.15926v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2309.15926v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Black hole (BH) X-ray binaries cycle through different spectral states of accretion over the course of months to years. Although fluctuations in the BH mass accretion rate are generally recognized as the most important component of state transitions, it is becoming increasingly evident that magnetic fields play a similarly important role. In this article, we present the first radiative two-temperature (2T) general relativistic magnetohydrodynamics (GRMHD) simulations in which an accretion disk transitions from a quiescent state at an accretion rate of $\dot{M} \sim 10^{-10} \dot{M}_{\rm Edd}$ to a hard-intermediate state at an accretion rate of $\dot{M} \sim 10^{-2} \dot{M}_{\rm Edd}$. This huge parameter space in mass accretion rate is bridged by artificially rescaling the gas density scale of the simulations. We present two jetted BH models with varying degrees of magnetic flux saturation. We demonstrate that in `Standard and Normal Evolution' models, which are unsaturated with magnetic flux, the hot torus collapses into a thin and cold accretion disk when $\dot{M} \gtrsim 5\times 10^{-3} \dot{M}_{\rm Edd}$. On the other hand, in `Magnetically Arrested Disk' models, which are fully saturated with vertical magnetic flux, the plasma remains mostly hot with substructures that condense into cold clumps of gas when $\dot{M} \gtrsim 1 \times 10^{-2} \dot{M}_{\rm Edd}$. This suggests that the spectral signatures observed during state transitions are closely tied to the level of magnetic flux saturation.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-09-27T18:05:02Z</published>
+    <arxiv:comment>16 pages, 10 figures, accepted in Astrophysical Journal, accompanying animations included in YouTube playlist: https://www.youtube.com/playlist?list=PLDO1oeU33Gwm1Thyw0iHC14BbvBWaG5cE</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>M. T. P. Liska</name>
+    </author>
+    <author>
+      <name>N. Kaaz</name>
+    </author>
+    <author>
+      <name>K. Chatterjee</name>
+    </author>
+    <author>
+      <name>Razieh Emami</name>
+    </author>
+    <author>
+      <name>Gibwa Musoke</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/astro-ph/0111356v1</id>
+    <title>The Power of Jets: New Clues from Radio Circular Polarization and X-rays</title>
+    <updated>2001-11-19T07:30:53Z</updated>
+    <link href="https://arxiv.org/abs/astro-ph/0111356v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/astro-ph/0111356v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Jets are ubiquitous in accreting black holes. Often ignored, they may be a major contributor to the emitted spectral energy distribution for sub-Eddington black holes. For example, recent observations of radio-to-X-ray correlations and broad band spectra of X-ray binaries in the low/hard state can be explained by a significant synchrotron contribution from jets also to their IR-to-X-ray spectrum as proposed by Markoff, Falcke, Fender 2001. This model can also explain state-transitions from low/hard to high/soft states. Relativistic beaming of the jet X-ray emission could lead to the appearance of seemingly Super-Eddington X-rays sources in other galaxies. We show that a simple population synthesis model of X-ray binaries with relativistic beaming can well explain the currently found distribution of off-nucleus X-ray point sources in nearby galaxies. Specifically we suggest that the so-called ultra-luminous X-ray sources (ULXs, also IXOs) could well be relativistically beamed microblazars. The same model that can be used to explain X-ray binaries also fits Low-Luminosity AGN (LLAGN) and especially Sgr A* in the Galactic Center. The recent detection of significant circular polarization in AGN radio cores, ranging from bright quasars down to low-luminosity AGN like M81*, Sgr A* and even X-ray binaries, now places additional new constraints on the matter contents of such jets. The emerging picture are powerful jets with a mix of hot and cold matter, a net magnetic flux, and a stable magnetic north pole.</summary>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2001-11-19T07:30:53Z</published>
+    <arxiv:comment>to appear in: ``Lighthouses of the Universe'', Springer Verlag, ESO Astrophysics Symposia, Eds: R.Sunyaev, M.Gilfanov, E.Churazov, LaTex, 8 pages, 5 figures, also available at http://www.mpifr-bonn.mpg.de/staff/hfalcke/publications.html#lighthouses</arxiv:comment>
+    <arxiv:primary_category term="astro-ph"/>
+    <author>
+      <name>Heino Falcke</name>
+      <arxiv:affiliation>MPIfR Bonn</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Thomas Beckert</name>
+      <arxiv:affiliation>MPIfR Bonn</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Sera Markoff</name>
+      <arxiv:affiliation>MPIfR Bonn</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Elmar Koerding</name>
+      <arxiv:affiliation>MPIfR Bonn</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Geoffrey C. Bower</name>
+      <arxiv:affiliation>UC Berkeley</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Rob Fender</name>
+      <arxiv:affiliation>Univ. Amsterdam</arxiv:affiliation>
+    </author>
+    <arxiv:doi>10.1007/10856495_61</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/10856495_61" title="doi"/>
+  </entry>
+</feed>

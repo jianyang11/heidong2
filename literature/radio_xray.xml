@@ -1,0 +1,898 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/OcaI57Yl4AyxgNpFdNt4KLrcCXg</id>
+  <title>arXiv Query: search_query=all:"radio" AND all:"X-ray" AND all:"correlation" AND all:"black hole X-ray binaries" AND all:"jet"&amp;id_list=&amp;start=0&amp;max_results=15</title>
+  <updated>2026-07-16T14:50:40Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22radio%22+AND+(all:%22X-ray%22+AND+(all:%22correlation%22+AND+(all:%22black+hole+X-ray+binaries%22+AND+all:%22jet%22)))&amp;start=0&amp;max_results=15&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>15</opensearch:itemsPerPage>
+  <opensearch:totalResults>77</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2607.06360v1</id>
+    <title>Extreme particle acceleration in X-ray binaries is linked to their jets</title>
+    <updated>2026-07-07T14:57:14Z</updated>
+    <link href="https://arxiv.org/abs/2607.06360v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.06360v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The detection of multi-TeV radiation from a handful of black-hole X-ray binaries (BHXRBs) has positioned the source class as promising candidate to explain the cosmic-ray flux in the PeV energy range. To determine what distinguishes the systems detected in the gamma-ray range from the rest of the population, we build on existing catalogues of BHXRBs by including information on the radio and gamma-ray emission from these systems. We then compare the $&gt;100$ TeV gamma-ray luminosity to different properties of the systems and evaluate the strength of the (rank) correlation between them. Additionally, we compare the distribution of BHXRBs with the positions of unassociated gamma-ray sources in the 1LHAASO and 1HGPS catalogues. We find no correlation with the mass of the compact object, the companion mass or the inclination angle. Instead, we find evidence for a strong correlation between the gamma-ray luminosity and the radio and hard-state X-ray luminosities in our sample. The limited number of gamma-ray detections means that this correlation cannot yet be claimed as statistically significant. We find indications that a high (&gt;20\%) duty cycle (defined as fraction of time spent in outburst) might be a requirement for $&gt;100$ TeV gamma-ray loudness. We find significant evidence ($&gt;3σ$) that BHXRBs are located near unassociated gamma-ray sources in the region of the sky not covered by LHAASO. This evidence is only significant when comparing to BHXRBs detected in the radio band. We conclude that radio-bright BHXRBs with a high duty cycle are more likely to be detected as gamma-ray sources than sources which are not detected in the radio band or those with low duty cycles. This result indicates that the particles responsible for the gamma-ray emission are associated with the jets, either accelerated within them or via their interaction with their surroundings.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-07T14:57:14Z</published>
+    <arxiv:comment>submitted to A&amp;A</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Laura Olivera-Nieto</name>
+    </author>
+    <author>
+      <name>Fraser J. Cowie</name>
+    </author>
+    <author>
+      <name>Sera Markoff</name>
+    </author>
+    <author>
+      <name>Rob Fender</name>
+    </author>
+    <author>
+      <name>Justine Crook-Mansour</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.27510v2</id>
+    <title>The strength of Type-C quasi-periodic oscillations in black hole X-ray binaries correlates with the jet inclination</title>
+    <updated>2026-06-14T12:53:50Z</updated>
+    <link href="https://arxiv.org/abs/2605.27510v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.27510v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>X-ray quasi-periodic oscillations (QPOs) are a characteristic feature of low-mass X-ray binaries (LMXBs). These oscillations have been studied for decades and revealed a rich and complex phenomenology that is still not fully understood. RXTE archival studies have shown that the amplitude of these oscillations differs significantly between black holes (BH) with high or low inclination. Yet, the actual dependence on inclination has never been adequately estimated. Thanks to the improvement of inclination measurements through radio observations and the recent observations by the HXMT satellite, we quantified for the first time the dependence of Type-C QPO amplitudes on the jet inclination of individual BH LMXBs. Our analysis reveals the presence of a significant linear correlation up to 8 Hz, strengthening the case for a ''geometrical'' origin of the QPOs. In addition, for a given QPO frequency, we observe systematically lower amplitudes during the decay of outbursts compared to the rise. This data collection represents a key benchmark for any QPO model. Our comparison with the predictions from a precessing hot flow shows that the amplitude of the QPOs can be reproduced by this scenario if the spin-orbit misalignment is at least $\approx$10-15$^\circ$.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-26T18:00:03Z</published>
+    <arxiv:comment>Accepted for publication on MNRAS; 9 pages, 6 Figures. Online data repository: https://github.com/fvince90/QPO-rms-vs-Jet-Inclination/tree/main</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>F. M. Vincentelli</name>
+    </author>
+    <author>
+      <name>N. Bollemeijer</name>
+    </author>
+    <author>
+      <name>A. Veledina</name>
+    </author>
+    <author>
+      <name>D. Altamirano</name>
+    </author>
+    <author>
+      <name>Q. Bu</name>
+    </author>
+    <author>
+      <name>F. Carotenuto</name>
+    </author>
+    <author>
+      <name>P. Casella</name>
+    </author>
+    <author>
+      <name>Y. Cavecchi</name>
+    </author>
+    <author>
+      <name>R. Ma</name>
+    </author>
+    <author>
+      <name>G. Marcel</name>
+    </author>
+    <author>
+      <name>G. Mastroserio</name>
+    </author>
+    <author>
+      <name>S. Motta</name>
+    </author>
+    <author>
+      <name>L. Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.19473v2</id>
+    <title>Radio-X-ray Time Lags in GX 339-4: Probing Magnetic Field Transport in Black Hole Accretion</title>
+    <updated>2026-05-20T06:48:45Z</updated>
+    <link href="https://arxiv.org/abs/2605.19473v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.19473v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present an analysis of the time delay between the radio emission and the X-ray Compton luminosity during the 2010-2011 outburst of GX 339-4. Using the interpolated cross-correlation function (ICCF), we measure the time delay between the Compton luminosity and the radio luminosity, and find that during the rising hard state, the radio emission precedes the Compton luminosity by approximately 3 days. In contrast, in the decaying hard state, the radio emission lags behind the Compton luminosity by about 8 days. By estimating the mass accretion rate and the disk truncation radius, the calculated inner magnetic field can account for both the radio delay in the decaying hard state and the radio precedence in the rising hard state. The time delays observed in different outbursts across multiple sources are compared further, and the underlying physical mechanisms account for this difference are discussed. These results provide insights into the evolving coupling between the inner accretion flow and the jet in black hole X-ray binaries.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-19T07:23:44Z</published>
+    <arxiv:comment>13 pages, 7 figures, submitted to APJ</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Dizhan Du</name>
+    </author>
+    <author>
+      <name>Bei You</name>
+    </author>
+    <author>
+      <name>Zhen Yan</name>
+    </author>
+    <author>
+      <name>Yuao Ma</name>
+    </author>
+    <author>
+      <name>Xinwu Cao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2601.14540v1</id>
+    <title>Exotic optical variability in the black hole X-ray binary IGR J17091-3624</title>
+    <updated>2026-01-20T23:38:07Z</updated>
+    <link href="https://arxiv.org/abs/2601.14540v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.14540v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>IGR J17091-3624 is a distinctive black hole X-ray binary exhibiting exotic variability, including complex "heartbeat" oscillations in its X-ray light curves, similar to those observed in GRS 1915+105, a system renowned for its structured, rapid X-ray variability but heavily obscured at optical wavelengths. In contrast, IGR J17091-3624 is less obscured, making it a more accessible target for optical investigations. Due to its weak radio emission, optical and infrared data are essential to probe the jet and outer disc behavior of IGR J17091-3624. This study presents the first long-term optical monitoring of IGR J17091-3624, using data from the Las Cumbres Observatory (LCO) over its 2011, 2016, and 2022 outbursts. We combine these observations with quasi-simultaneous X-ray data from Swift/XRT, RXTE, and NICER, employing light curve and variability analysis, spectral energy distributions, color-magnitude diagrams, and optical/X-ray correlations to investigate optical emission mechanisms. We find that the optical and X-ray fluxes are significantly correlated, following a power-law relation with the index 0.40\pm0.04, suggesting that the optical emission in IGR J17091-3624 is dominated by an X-ray-irradiated accretion disk. Based on optical spectral slope constraints, we estimate the extinction toward IGR J17091-3624 A_V = 4.3 to 6.6 mag. The global optical/X-ray correlation suggests a distance estimate of 8-17 kpc, in line with previous findings. High-cadence optical observations show tentative evidence of optical oscillations that may arise from reprocessed X-ray modulations, although confirming this will require higher time-resolution optical data.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-20T23:38:07Z</published>
+    <arxiv:comment>Accepted for publication at MNRAS</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Payaswini Saikia</name>
+    </author>
+    <author>
+      <name>David M. Russell</name>
+    </author>
+    <author>
+      <name>D. M. Bramich</name>
+    </author>
+    <author>
+      <name>Kevin Alabarta</name>
+    </author>
+    <author>
+      <name>Sandeep Rout</name>
+    </author>
+    <author>
+      <name>Federico Vincentelli</name>
+    </author>
+    <author>
+      <name>Mariano Méndez</name>
+    </author>
+    <author>
+      <name>Diego Altamirano</name>
+    </author>
+    <author>
+      <name>Federico García</name>
+    </author>
+    <author>
+      <name>M. C. Baglio</name>
+    </author>
+    <author>
+      <name>Fraser Lewis</name>
+    </author>
+    <author>
+      <name>Yi-Jung Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2510.01338v1</id>
+    <title>Infrared Synchrotron Emission in the Soft State of GX 339-4 and the Mid-Infrared/X-ray Luminosity Plane of Black Hole X-ray Binaries</title>
+    <updated>2025-10-01T18:09:40Z</updated>
+    <link href="https://arxiv.org/abs/2510.01338v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2510.01338v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Progress in understanding the growth of accreting black holes remains hampered by a lack of sensitive coordinated multiwavelength observations. In particular, the mid-infrared (MIR) regime remains ill-explored except for jet-dominant states. Here, we present comprehensive follow-up of the black hole X-ray binary GX 339-4 during a disc-dominated state in its 2023/24 outburst as part of a multi-wavelength campaign coordinated around JWST/MIRI. The X-ray properties are fairly typical of soft accretion states, with a high-energy Comptonised tail. The source is significantly detected between 5-10$μ$m, albeit at a faint flux level requiring MIR compact jet emission to be quenched by a factor of $\sim$300 or more relative to previous hard-state detections. The MIRI spectrum can be described as a simple power-law with slope $α$ = +0.39$\pm$0.07 ($F_ν$ $\propto$ $ν^α$), but surprisingly matches neither the radio/sub-mm nor the optical broadband slopes. Significant MIR stochastic variability is detected. Synchrotron radiation from the same medium responsible for high-energy Comptonisation can self-consistently account for the observed MIRI spectral-timing behaviour, offering new constraints on the physical conditions in the soft-state accretion disc atmosphere/corona. Alternative explanations, including a circumbinary disc or emission from a warm wind, fail to cleanly explain either the spectral properties or the variability. Multiwavelength timing cross-correlations show a puzzlingly long MIR lag relative to the optical, though at limited significance. We compile archival MIR and X-ray luminosities of transient black hole systems, including previously unreported detections of GX 339-4. These trace the evolution of the MIR-to-X-ray flux ratio with accretion state, and also reveal high MIR luminosities for GX 339-4 across all states. (abridged)</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-10-01T18:09:40Z</published>
+    <arxiv:comment>Submitted on 2025 Sep 26</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <arxiv:journal_ref>Mon Not R Astron Soc (2026)</arxiv:journal_ref>
+    <author>
+      <name>P. Gandhi</name>
+    </author>
+    <author>
+      <name>D. M. Russell</name>
+    </author>
+    <author>
+      <name>M. C. Baglio</name>
+    </author>
+    <author>
+      <name>Y. Bhargava</name>
+    </author>
+    <author>
+      <name>R. Duncan</name>
+    </author>
+    <author>
+      <name>A. Gúrpide</name>
+    </author>
+    <author>
+      <name>C. O. Heinke</name>
+    </author>
+    <author>
+      <name>C. Knigge</name>
+    </author>
+    <author>
+      <name>K. S. Long</name>
+    </author>
+    <author>
+      <name>T. J. Maccarone</name>
+    </author>
+    <author>
+      <name>G. Mastroserio</name>
+    </author>
+    <author>
+      <name>T. D. Russell</name>
+    </author>
+    <author>
+      <name>A. W. Shaw</name>
+    </author>
+    <author>
+      <name>A. J. Tetarenko</name>
+    </author>
+    <author>
+      <name>F. M. Vincentelli</name>
+    </author>
+    <author>
+      <name>E. S. Borowski</name>
+    </author>
+    <author>
+      <name>D. A. H. Buckley</name>
+    </author>
+    <author>
+      <name>P. Casella</name>
+    </author>
+    <author>
+      <name>C. Dashwood Brown</name>
+    </author>
+    <author>
+      <name>G. C. Dewangan</name>
+    </author>
+    <author>
+      <name>R. I. Hynes</name>
+    </author>
+    <author>
+      <name>S. Markoff</name>
+    </author>
+    <author>
+      <name>J. A. Tomsick</name>
+    </author>
+    <author>
+      <name>K. Alabarta</name>
+    </author>
+    <author>
+      <name>F. Carotenuto</name>
+    </author>
+    <author>
+      <name>E. Carver</name>
+    </author>
+    <author>
+      <name>N. Castro-Segura</name>
+    </author>
+    <author>
+      <name>P. Charles</name>
+    </author>
+    <author>
+      <name>F. Lewis</name>
+    </author>
+    <author>
+      <name>J. A. Paice</name>
+    </author>
+    <author>
+      <name>D. Pawar</name>
+    </author>
+    <author>
+      <name>M. E. Ressler</name>
+    </author>
+    <author>
+      <name>S. K. Rout</name>
+    </author>
+    <author>
+      <name>P. Saikia</name>
+    </author>
+    <author>
+      <name>T. Shahbaz</name>
+    </author>
+    <author>
+      <name>G. R. Sivakoff</name>
+    </author>
+    <arxiv:doi>10.1093/mnras/stag619</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1093/mnras/stag619" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2507.11303v1</id>
+    <title>The Accretion-Ejection Connection in the Black Hole X-ray Binary MAXI J1820$+$070</title>
+    <updated>2025-07-15T13:31:31Z</updated>
+    <link href="https://arxiv.org/abs/2507.11303v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2507.11303v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The black hole X-ray binary MAXI J1820$+$070 began its first recorded outburst in March 2018, and remained an active radio, X-ray, and optical source for over four years. Due to the low distance to the source and its intrinsically high luminosity MAXI J1820$+$070 was observed extensively over this time period, resulting in high-cadence and quasi-simultaneous observations across the electromagnetic spectrum. These data sets provide the opportunity to probe the connection between accretion and the launch of jets in greater detail than for the majority of black hole X-ray binaries. In this work we present radio (Arcminute Microkelvin Imager Large Array, MeerKAT), X-ray (Swift), and optical (Las Cumbres Observatory) observations of MAXI J1820$+$070 throughout its entire outburst, including its initial hard state, subsequent soft state, and further hard-state-only re-brightenings (covering March 2018 to August 2022). Due to the regularity and temporal density of our observational data we are able to create a Radio - X-ray - Optical activity plane where we find a high degree of correlation between the three wave bands during the hard states, and observe hysteresis as MAXI J1820$+$070 enters and exits the soft state. Based on the morphology of the optical light curves we see evidence for optical jet contributions during the soft-to-hard state transition, as well as fading optical emission well before the hard to soft transition. We establish that the remarkably similar profiles of the re-brightening events are broadly consistent with modified disk instability models where irradiation from the inner accretion disk is included.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-07-15T13:31:31Z</published>
+    <arxiv:comment>15 pages, 10 figures. Accepted for publication in MNRAS</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Joe S. Bright</name>
+    </author>
+    <author>
+      <name>Rob Fender</name>
+    </author>
+    <author>
+      <name>David M. Russell</name>
+    </author>
+    <author>
+      <name>Sara E. Motta</name>
+    </author>
+    <author>
+      <name>Ethan Man</name>
+    </author>
+    <author>
+      <name>Jakob van den Eijnden</name>
+    </author>
+    <author>
+      <name>Kevin Alabarta</name>
+    </author>
+    <author>
+      <name>Justine Crook-Mansour</name>
+    </author>
+    <author>
+      <name>Maria C. Baglio</name>
+    </author>
+    <author>
+      <name>David A. Green</name>
+    </author>
+    <author>
+      <name>Ian Heywood</name>
+    </author>
+    <author>
+      <name>Fraser Lewis</name>
+    </author>
+    <author>
+      <name>Payaswini Saikia</name>
+    </author>
+    <author>
+      <name>Paul F. Scott</name>
+    </author>
+    <author>
+      <name>David J. Titterington</name>
+    </author>
+    <arxiv:doi>10.1093/mnras/staf1098</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1093/mnras/staf1098" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2507.03644v1</id>
+    <title>Revisiting Disc-Jet Coupling in Black Hole X-ray Binaries: On the Nature of Disc Dynamics and Jet Velocity</title>
+    <updated>2025-07-04T15:18:49Z</updated>
+    <link href="https://arxiv.org/abs/2507.03644v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2507.03644v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We perform a comprehensive wide-band ($3-100$keV) spectro-temporal analysis of 13 outbursting BH-XRBs, using data (quasi)simultaneous with radio observations to unravel the complex disc-jet connection. RXTE observations are analyzed for XTEJ1859+226, GX339-4 (2002, 2006, and 2010 outbursts), 4U1543-47, H1743-322 (2003 and 2009 outbursts), XTEJ1550-564, XTEJ1752-223, XTEJ1650-500, SwiftJ1753.5-0127, XTEJ1748-288, and GROJ1655-40. For SwiftJ1727.8-1613 and MAXIJ1535-571, we utilize HXMT data, while both AstroSat and HXMT observations are analyzed for SwiftJ1658.2-4242. Type-C QPOs observed in harder states (LHS, HIMS; $F_{nth}\ge0.4$) exhibit positive lag for low-inclination sources ($i&lt;50^{\circ}$), whereas it generally exhibits negative lag for high-inclination sources ($i&gt;60^{\circ}$), except XTEJ1550-564, SwiftJ1727.8-1613, H1743-322 (2003 outburst) and GROJ1655-40. Notably, type-A QPOs exhibit negative lags ($\sim1-10$ms) regardless of source inclination, while type-B QPOs show positive lags in low-inclination sources, and both positive and negative lags ($\sim1-15$ms) in high-inclination sources, typically occurring in SIMS ($F_{nth}\lesssim0.45$). Systematic appearance of type-A QPOs preceding radio flares in several sources suggests that type-A QPOs indicate telltale signs of jet ejection, while type-B QPOs are closely linked with radio flares (i.e., transient jets). Present findings suggest the corona evolves from a radially extended to a vertically elongated structure during the type-C to type-B transition via type-A QPOs, with type-B QPOs linked to radially compact or vertically extended coronal geometries, resembling jet ejection. The strong radio-X-ray luminosity correlation seems to provide compelling evidence of accretion-powered jets. Finally, we find that jets in SIMS are moderately relativistic in nature with velocities $\gtrsim 0.3-0.8c$ in BH-XRBs under consideration.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-07-04T15:18:49Z</published>
+    <arxiv:comment>23 pages, 13 figures, 3 tables, accepted for publication in MNRAS</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Sreetama Das Choudhury</name>
+      <arxiv:affiliation>IITG</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Bhuvana G. R.</name>
+      <arxiv:affiliation>IAS</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Santabrata Das</name>
+      <arxiv:affiliation>IITG</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Anuj Nandi</name>
+      <arxiv:affiliation>URSC</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2506.12387v2</id>
+    <title>The peculiar hard state behaviour of the black hole X-ray binary Swift J1727.8$-$1613</title>
+    <updated>2025-08-15T13:52:20Z</updated>
+    <link href="https://arxiv.org/abs/2506.12387v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.12387v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Tracking the correlation between radio and X-ray luminosities during black hole X-ray binary outbursts is a key diagnostic of the coupling between accretion inflows (traced by X-rays) and relativistic jet outflows (traced by radio). We present the radio--X-ray correlation of the black hole low-mass X-ray binary Swift~J1727.8$-$1613 during its 2023--2024 outburst. Our observations span a broad dynamic range, covering $\sim$4 orders of magnitude in radio luminosity and $\sim$6.5 in X-ray luminosity. This source follows an unusually radio-quiet track, exhibiting significantly lower radio luminosities at a given X-ray luminosity than both the standard (radio-loud) track and most previously known radio-quiet systems. Across most of the considered distance range ($D {\sim} 1.5-4.3$ kpc), Swift~J1727.8$-$1613 appears to be the most radio-quiet black hole binary identified to date. For distances ${\geq} 4$ kpc, while Swift~J1727.8$-$1613 becomes comparable to one other extremely radio-quiet system, its peak X-ray luminosity (${\gtrsim} 5{\times}10^{38}$ erg/s) exceeds that of any previously reported hard-state black hole low-mass X-ray binary, emphasising the extremity of this outburst. Additionally, for the first time in a radio-quiet system, we identify the onset of X-ray spectral softening to coincide with a change in trajectory through the radio--X-ray plane. We assess several proposed explanations for radio-quiet behaviour in black hole systems in light of this dataset. As with other such sources, however, no single mechanism fully accounts for the observed properties, highlighting the importance of regular monitoring and the value of comprehensive (quasi-)simultaneous datasets.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-14T07:54:21Z</published>
+    <arxiv:comment>13 pages, 7 figures, 1 table including appendix, Accepted for publication in MNRAS</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>A. K. Hughes</name>
+    </author>
+    <author>
+      <name>F. Carotenuto</name>
+    </author>
+    <author>
+      <name>T. D. Russell</name>
+    </author>
+    <author>
+      <name>A. J. Tetarenko</name>
+    </author>
+    <author>
+      <name>J. C. A. Miller-Jones</name>
+    </author>
+    <author>
+      <name>R. M. Plotkin</name>
+    </author>
+    <author>
+      <name>A. Bahramian</name>
+    </author>
+    <author>
+      <name>J. S. Bright</name>
+    </author>
+    <author>
+      <name>F. J. Cowie</name>
+    </author>
+    <author>
+      <name>J. Crook-Mansour</name>
+    </author>
+    <author>
+      <name>R. Fender</name>
+    </author>
+    <author>
+      <name>J. K. Khaulsay</name>
+    </author>
+    <author>
+      <name>A. Kirby</name>
+    </author>
+    <author>
+      <name>S. Jones</name>
+    </author>
+    <author>
+      <name>M. McCollough</name>
+    </author>
+    <author>
+      <name>R. Rao</name>
+    </author>
+    <author>
+      <name>G. R. Sivakoff</name>
+    </author>
+    <author>
+      <name>S. D. Vrtilek</name>
+    </author>
+    <author>
+      <name>D. R. A. Williams-Baldwin</name>
+    </author>
+    <author>
+      <name>C. M. Wood</name>
+    </author>
+    <author>
+      <name>D. Altamirano</name>
+    </author>
+    <author>
+      <name>P. Casella</name>
+    </author>
+    <author>
+      <name>N. Castro Segura</name>
+    </author>
+    <author>
+      <name>S. Corbel</name>
+    </author>
+    <author>
+      <name>M. Del Santo</name>
+    </author>
+    <author>
+      <name>C. Echiburu-Trujillo</name>
+    </author>
+    <author>
+      <name>J. van den Eijnden</name>
+    </author>
+    <author>
+      <name>E. Gallo</name>
+    </author>
+    <author>
+      <name>P. Gandhi</name>
+    </author>
+    <author>
+      <name>K. I. I. Koljonen</name>
+    </author>
+    <author>
+      <name>T. Maccarone</name>
+    </author>
+    <author>
+      <name>S. B. Markoff</name>
+    </author>
+    <author>
+      <name>S. Motta</name>
+    </author>
+    <author>
+      <name>D. M. Russell</name>
+    </author>
+    <author>
+      <name>P. Saikia</name>
+    </author>
+    <author>
+      <name>A. W. Shaw</name>
+    </author>
+    <author>
+      <name>R. Soria</name>
+    </author>
+    <author>
+      <name>J. A. Tomsick</name>
+    </author>
+    <author>
+      <name>W. Yu</name>
+    </author>
+    <author>
+      <name>X. Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2506.03774v2</id>
+    <title>Probing the accretion geometry of black hole X-ray binaries: A multi-mission spectro-polarimetric and timing study</title>
+    <updated>2025-11-06T04:08:43Z</updated>
+    <link href="https://arxiv.org/abs/2506.03774v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.03774v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a comprehensive spectro-polarimetric and timing analysis of twelve black hole X-ray binaries, namely Cyg X-1, 4U 1630-47, Cyg X-3, LMC X-1, 4U 1957+115, LMC X-3, Swift J1727.8-1613, GX 339-4, Swift J151857.0-572147, IGR J17091-3624, MAXI J1744-294 and GRS 1915+105, using quasi-simultaneous observations from {\it{IXPE}}, {\it{NICER}}, {\it{NuSTAR}}, and {\it{AstroSat}}. Timing analyses reveal type-B and type-C Quasi-periodic Oscillations across different spectral states, often associated with episodic radio ejections. Broadband ($0.7-60$ keV) spectral modeling, employing disc, Comptonization, and reflection components, reveals degeneracies in constraining disc-corona geometries. Polarimetric measurements in $2-8$ keV band detect significant polarization degrees (PDs) ranging from $3-20.6\%$ ($1.2-21.4\%$) in harder (softer) states, with moderate to strong energy dependence, except for LMC X$-1$, Swift J$151857.0-572147$, and MAXI J1744$-$294, where no significant polarization is detected. We report polarization detections of Cyg X$-3$ (PD $\sim 21.4\%$, SIMS), LMC X$-3$ (PD $\sim 2.4\%$, HSS) and IGR J$17091-3624$ (PD $\sim 9\%$, LHS) using recent {\it IXPE} observations. A positive correlation is found between PD and Comptonized photon fraction ($cov_{\rm frac}$), while an anti-correlation is observed with disc-to-Comptonized flux ratio ($F_{\rm ratio}$) across spectral states. Combined timing, spectral, and polarimetric results, together with constraints from radio jet observations, suggest a radially extended corona within a truncated disc for Cyg X$-1$, Swift J$1727.8-1613$, IGR J$17091-3624$, and GX $339-4$, whereas the disc-corona geometry remains poorly constrained for 4U $1957+115$, LMC X$-3$, and 4U $1630-47$. We discuss the implications of these findings for understanding accretion geometries and highlight prospects for future X-ray polarimetric studies.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-04T09:38:51Z</published>
+    <arxiv:comment>23 pages, 8 figures, 6 tables, to appear in MNRAS</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Seshadri Majumder</name>
+      <arxiv:affiliation>IITG</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Ankur Kushwaha</name>
+      <arxiv:affiliation>URSC</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Swapnil Singh</name>
+      <arxiv:affiliation>URSC</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Kiran M. Jayasurya</name>
+      <arxiv:affiliation>URSC</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Santabrata Das</name>
+      <arxiv:affiliation>IITG</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Anuj Nandi</name>
+      <arxiv:affiliation>URSC</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2505.03942v2</id>
+    <title>Variability of X-ray polarization of Cyg X-1</title>
+    <updated>2025-09-12T08:22:29Z</updated>
+    <link href="https://arxiv.org/abs/2505.03942v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2505.03942v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present the results of a three-year X-ray, optical, and radio polarimetric monitoring campaign of the prototypical black hole X-ray binary Cyg X-1, conducted from 2022 to 2024. The X-ray polarization of Cyg X-1 was measured 13 times with the Imaging X-ray Polarimetry Explorer (IXPE), covering both hard and soft spectral states. The X-ray polarization degree (PD) in the hard state was found to be $\approx4.0\%$, roughly twice as high as in the soft state, where it was around $2.2\%$. In both states, a statistically significant increase of PD with the energy was found. Moreover, a linear relation between PD and spectral hardness suggests a gradual and continuous evolution of the polarization properties, rather than an abrupt change of polarization production mechanism between states. The polarization angle (PA) was independent of the spectral state and showed no trend with the photon energy. The X-ray PA is well aligned with the orientation of the radio jet, as well as the optical and radio PAs. We find significant orbital changes of PA in the hard state, which we attribute to scattering of X-ray emission at intrabinary structure. No significant superorbital variability in PD or PA was found at the period $P_{\rm{so}}$ = 294 d. We also find no correlation between the X-ray and optical polarization; if any, there is a long-term anti-correlation between the X-ray PD and the radio PD.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-05-06T19:38:26Z</published>
+    <arxiv:comment>12 pages, 10 figures, accepted for publication in Astronomy &amp; Astrophysics</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <arxiv:journal_ref>A&amp;A 701, A115 (2025)</arxiv:journal_ref>
+    <author>
+      <name>Vadim Kravtsov</name>
+    </author>
+    <author>
+      <name>Anastasiia Bocharova</name>
+    </author>
+    <author>
+      <name>Alexandra Veledina</name>
+    </author>
+    <author>
+      <name>Juri Poutanen</name>
+    </author>
+    <author>
+      <name>Andrew K. Hughes</name>
+    </author>
+    <author>
+      <name>Michal Dovčiak</name>
+    </author>
+    <author>
+      <name>Elise Egron</name>
+    </author>
+    <author>
+      <name>Fabio Muleri</name>
+    </author>
+    <author>
+      <name>Jakub Podgorny</name>
+    </author>
+    <author>
+      <name>Jiři Svoboda</name>
+    </author>
+    <author>
+      <name>Sofia V. Forsblom</name>
+    </author>
+    <author>
+      <name>Andrei V. Berdyugin</name>
+    </author>
+    <author>
+      <name>Dmitry Blinov</name>
+    </author>
+    <author>
+      <name>Joe S. Bright</name>
+    </author>
+    <author>
+      <name>Francesco Carotenuto</name>
+    </author>
+    <author>
+      <name>David A. Green</name>
+    </author>
+    <author>
+      <name>Adam Ingram</name>
+    </author>
+    <author>
+      <name>Ioannis Liodakis</name>
+    </author>
+    <author>
+      <name>Nikos Mandarakas</name>
+    </author>
+    <author>
+      <name>Anagha P. Nitindala</name>
+    </author>
+    <author>
+      <name>Lauren Rhodes</name>
+    </author>
+    <author>
+      <name>Sergei A. Trushkin</name>
+    </author>
+    <author>
+      <name>Sergey S. Tsygankov</name>
+    </author>
+    <author>
+      <name>Maimouna Brigitte</name>
+    </author>
+    <author>
+      <name>Alessandro Di Marco</name>
+    </author>
+    <author>
+      <name>Noemi Iacolina</name>
+    </author>
+    <author>
+      <name>Henric Krawczynski</name>
+    </author>
+    <author>
+      <name>Fabio La Monaca</name>
+    </author>
+    <author>
+      <name>Vladislav Loktev</name>
+    </author>
+    <author>
+      <name>Guglielmo Mastroserio</name>
+    </author>
+    <author>
+      <name>Pierre-Olivier Petrucci</name>
+    </author>
+    <author>
+      <name>Maura Pilia</name>
+    </author>
+    <author>
+      <name>Francesco Tombesi</name>
+    </author>
+    <author>
+      <name>Andrzej A. Zdziarski</name>
+    </author>
+    <arxiv:doi>10.1051/0004-6361/202555411</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1051/0004-6361/202555411" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2503.22665v2</id>
+    <title>The very high X-ray polarisation of accreting black hole IGRJ17091-3624 in the hard state</title>
+    <updated>2025-05-23T12:38:49Z</updated>
+    <link href="https://arxiv.org/abs/2503.22665v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2503.22665v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We report the first detection of the X-ray polarisation of the transient black hole X-ray binary IGRJ17091-3624 taken with the Imaging X-ray polarimetry Explorer (IXPE) in March 2025, and present the results of an X-ray spectro-polarimetric analysis. The polarisation was measured in the 2--8 keV band with 5.2$σ$ statistical confidence. We report a polarisation degree (PD) of $9.1\pm1.6$ per cent and a polarisation angle of $83^{\circ} \pm 5^{\circ}$ (errors are $1σ$ confidence). There is a hint of a positive correlation of PD with energy that is not statistically significant. We report that the source is in the corona-dominated hard state, which is confirmed by a hard power-law dominated spectrum with weak reflection features and the presence of a Type-C quasi-periodic oscillation at $\sim0.2$~Hz. The orientation of the emitted radio jet is not known, and so we are unable to compare it with the direction of X-ray polarization, but we predict the two to be parallel if the geometry is similar to that in Cygnus X-1 and Swift J1727.8-1613, the two hard state black hole binaries previously observed by IXPE. In the Comptonisation scenario, the high observed PD requires a very favourable geometry of the corona, a high inclination angle (supported by the presence of a dip in the light curve) and possibly a mildly relativistic outflow and/or scattering in an optically thick wind.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-03-28T17:53:37Z</published>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Melissa Ewing</name>
+    </author>
+    <author>
+      <name>Maxime Parra</name>
+    </author>
+    <author>
+      <name>Guglielmo Mastroserio</name>
+    </author>
+    <author>
+      <name>Alexandra Veledina</name>
+    </author>
+    <author>
+      <name>Adam Ingram</name>
+    </author>
+    <author>
+      <name>Michal Dovčiak</name>
+    </author>
+    <author>
+      <name>Javier A. García</name>
+    </author>
+    <author>
+      <name>Thomas D. Russell</name>
+    </author>
+    <author>
+      <name>Maria C. Baglio</name>
+    </author>
+    <author>
+      <name>Juri Poutanen</name>
+    </author>
+    <author>
+      <name>Oluwashina Adegoke</name>
+    </author>
+    <author>
+      <name>Stefano Bianchi</name>
+    </author>
+    <author>
+      <name>Fiamma Capitanio</name>
+    </author>
+    <author>
+      <name>Riley Connors</name>
+    </author>
+    <author>
+      <name>Melania Del Santo</name>
+    </author>
+    <author>
+      <name>Barbara De Marco</name>
+    </author>
+    <author>
+      <name>María Díaz Trigo</name>
+    </author>
+    <author>
+      <name>Poshak Gandhi</name>
+    </author>
+    <author>
+      <name>Maitrayee Gupta</name>
+    </author>
+    <author>
+      <name>Chulsoo Kang</name>
+    </author>
+    <author>
+      <name>Elias Kammoun</name>
+    </author>
+    <author>
+      <name>Vladislav Loktev</name>
+    </author>
+    <author>
+      <name>Lorenzo Marra</name>
+    </author>
+    <author>
+      <name>Giorgio Matt</name>
+    </author>
+    <author>
+      <name>Edward Nathan</name>
+    </author>
+    <author>
+      <name>Pierre-Olivier Petrucci</name>
+    </author>
+    <author>
+      <name>Megumi Shidatsu</name>
+    </author>
+    <author>
+      <name>James F. Steiner</name>
+    </author>
+    <author>
+      <name>Francesco Tombesi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2501.04917v1</id>
+    <title>Peculiar radio-bright behaviour of the Galactic black hole transient 4U 1543-47 in the 2021-2023 outburst</title>
+    <updated>2025-01-09T02:14:26Z</updated>
+    <link href="https://arxiv.org/abs/2501.04917v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2501.04917v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Correlated behaviours between the radio emission and the X-ray emission in Galactic black hole X-ray binaries (BH XRBs) in the X-ray hard state are crucial to the understanding of disc-jet coupling of accreting black holes. The BH transient 4U 1543-47 went into outburst in 2021 following ~19 years of quiescence. We followed it up with ~weekly cadence with MeerKAT for about one year and a half until it faded into quiescence. Multi-epoch quasi-simultaneous MeerKAT and X-ray observations allowed us to trace the compact jet emission and its X-ray emission. In its hard spectral state across three orders of magnitude of X-ray luminosities above ~10$^{34}$ ergs/s, we found the correlation between radio and X-ray emission had a power-law index of 0.82$\pm$0.09, steeper than the canonical value of ~0.6 for BH XRBs. In addition, the radio vs. X-ray correlation shows a large range of the power-law normalization, with the maximum significantly larger than that obtained for most BH XRBs, indicating it can be particularly radio-bright and variable in the X-ray binary sample. The radio emission is unlikely diluted by discrete jet components. The observed peculiar radio-bright and variable behaviours provide the evidence for the relativistic effects of a variable Lorentz factor in the range between 1 and ~2 of the compact jet.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-01-09T02:14:26Z</published>
+    <arxiv:comment>13 pages, 2 figures, accepted for publication in MNRAS Letters</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>X. Zhang</name>
+    </author>
+    <author>
+      <name>W. Yu</name>
+    </author>
+    <author>
+      <name>F. Carotenuto</name>
+    </author>
+    <author>
+      <name>S. E. Motta</name>
+    </author>
+    <author>
+      <name>R. Fender</name>
+    </author>
+    <author>
+      <name>J. C. A. Miller-Jones</name>
+    </author>
+    <author>
+      <name>T. D. Russell</name>
+    </author>
+    <author>
+      <name>A. Bahramian</name>
+    </author>
+    <author>
+      <name>P. Woudt</name>
+    </author>
+    <author>
+      <name>A. K. Hughes</name>
+    </author>
+    <author>
+      <name>G. R. Sivakoff</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2408.01110v1</id>
+    <title>Unraveling the hybrid origins of the X-ray non-thermal emission from IGR J17091-3624</title>
+    <updated>2024-08-02T08:39:40Z</updated>
+    <link href="https://arxiv.org/abs/2408.01110v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2408.01110v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a comprehensive study based on multi-wavelength observations from the NuSTAR, NICER, Swift, Fermi, NEOWISE, and ATCA telescopes during the 2022 outburst of the black hole X-ray binary IGR J17091-3624. Our investigation concentrates on the heartbeat-like variability in the X-ray emission, with the aim of using it as a tool to unravel the origin of the non-thermal emission during the heartbeat state. Through X-ray timing and spectral analysis, we observe that the heartbeat-like variability correlates with changes in the disk temperature, supporting the disk radiation pressure instability scenario. Moreover, in addition to a Comptonization component, our time-averaged and phase-resolved spectroscopy reveal the presence of a power-law component that varies independently from the disk component. Combined with the radio to X-ray spectral energy distribution fitting, our results suggest that the power-law component could originate from synchrotron self-Compton radiation in the jet, which requires a strong magnetic field of about $B = (0.3$-$3.5)\times10^6$ G. Additionally, assuming that IGR J17091-3624 and GRS 1915+105 share the same radio-X-ray correlation coefficient during both the hard and the heartbeat states, we obtain a distance of $13.7\pm2.3$ kpc for IGR J17091-3624.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-08-02T08:39:40Z</published>
+    <arxiv:comment>19 pages, 11 figures, 3 tables; accepted for publication in ApJ</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Zikun Lin</name>
+    </author>
+    <author>
+      <name>Yanan Wang</name>
+    </author>
+    <author>
+      <name>Santiago del Palacio</name>
+    </author>
+    <author>
+      <name>Mariano Méndez</name>
+    </author>
+    <author>
+      <name>Shuang-Nan Zhang</name>
+    </author>
+    <author>
+      <name>Thomas D. Russell</name>
+    </author>
+    <author>
+      <name>Long Ji</name>
+    </author>
+    <author>
+      <name>Jin Zhang</name>
+    </author>
+    <author>
+      <name>Liang Zhang</name>
+    </author>
+    <author>
+      <name>Diego Altamirano</name>
+    </author>
+    <author>
+      <name>Jifeng Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2407.14856v2</id>
+    <title>A physical model for radio and X-ray correlation in black hole X-ray binaries</title>
+    <updated>2024-08-20T06:54:55Z</updated>
+    <link href="https://arxiv.org/abs/2407.14856v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2407.14856v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A tight correlation between the radio and X-ray emission in the hard state of black hole X-ray binaries (BHXRBs) indicates an intrinsic disc-jet connection in stellar black hole accretion systems, though the detailed physics processes at work are still quite unclear. A hot accretion flow is suggested to match the outer cold thin disc at a certain radius in the hard state, which may vary with the accretion rate. In this work, we assume that the magnetic field generated in the outer thin disc is advected inwards by the inner hot accretion flow, which is substantially enhanced near the BH. Such a strong field threading the horizon of a spinning BH is responsible for launching relativistic jets in BHXRBs via the Blandford-Znajek mechanism. Thus, both the jet power and the X-ray emission increase with the mass accretion rate, and we find that our model calculations are able to reproduce the observed radio/X-ray correlation quantitatively. For some individual BHXRBs, the slopes of the radio/X-ray correlations become steeper when the sources are brighter. Our model calculations show that this feature is due to the transition of the outer disc with gas pressure dominated to radiation pressure dominated, which leads to different accretion rate dependence of the field strength in the outer disc.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-07-20T12:07:14Z</published>
+    <arxiv:comment>Monthly Notices of the Royal Astronomical Society, Volume 532, Issue 4, August 2024, Pages 4524 4534</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Yiheng Jiang</name>
+    </author>
+    <author>
+      <name>Shanshan Li</name>
+    </author>
+    <author>
+      <name>Xinwu Cao</name>
+    </author>
+    <author>
+      <name>Bei You</name>
+    </author>
+    <author>
+      <name>Andrzej A. Zdziarski</name>
+    </author>
+    <author>
+      <name>Saien Xu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2407.05729v1</id>
+    <title>The role of outflows in black-hole X-ray binaries</title>
+    <updated>2024-07-08T08:31:40Z</updated>
+    <link href="https://arxiv.org/abs/2407.05729v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2407.05729v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The hot inner flow in black-hole X-ray binaries is not just a static corona rotating around the black hole, but it must be partially outflowing. We have developed a model, in which Comptonization takes place in this outflowing corona. We are able to reproduce quantitatively five observed correlations: a) the time lag as a function of Fourier frequency, b) the time lag as a function of photon energy, c) the time lag as a function of $Γ$, d) the time lag as a function of the cut-off energy in the spectrum, and e) the long-standing radio - X-ray correlation. All of them with only two parameters (optical depth and width of the outflow), which vary in the same ranges for all the correlations. Our model does not require a compact, narrow relativistic jet, although its presence does not affect the results. The essential ingredient of our model is the parabolic shape of the Comptonizing corona. The outflow speed also plays a minor role. Furthermore, the bottom of the outflow, in the hard state, looks like a ``slab'' to the incoming soft photons from the disk, and this can explain the observed X-ray polarization, which is along the outflow.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-07-08T08:31:40Z</published>
+    <arxiv:comment>Accepted for publication in A&amp;A</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <arxiv:journal_ref>A&amp;A 690, A6 (2024)</arxiv:journal_ref>
+    <author>
+      <name>N. Kylafis</name>
+    </author>
+    <author>
+      <name>P. Reig</name>
+    </author>
+    <arxiv:doi>10.1051/0004-6361/202450337</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1051/0004-6361/202450337" title="doi"/>
+  </entry>
+</feed>
