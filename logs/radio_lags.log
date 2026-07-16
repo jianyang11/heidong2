@@ -1,0 +1,22 @@
+2026-07-16 15:24:46,380 INFO radio epochs: 87 (MJD 50483-56103)
+2026-07-16 15:24:46,391 INFO 50378_rise: only 0 radio pts, skip
+2026-07-16 15:24:46,391 INFO 50378_decay: only 5 radio pts, skip
+2026-07-16 15:24:46,391 INFO 52366_rise: only 4 radio pts, skip
+2026-07-16 15:24:46,391 INFO 52366_decay: only 1 radio pts, skip
+2026-07-16 15:24:48,733 INFO 53068_rise [asm, 7 radio/88 xray pts]: lag=-4.82 +6.07/-3.98 d rmax=0.91 q=A
+2026-07-16 15:24:50,771 INFO 53068_decay [asm, 9 radio/23 xray pts]: lag=8.17 +9.05/-7.17 d rmax=0.98 q=A
+2026-07-16 15:24:50,970 INFO 54070_rise: only 3 radio pts, skip
+2026-07-16 15:24:55,270 INFO 55200_rise [bat, 16 radio/107 xray pts]: lag=9.30 +0.47/-0.48 d rmax=0.98 q=A
+2026-07-16 15:24:59,079 INFO 55200_decay [bat, 15 radio/33 xray pts]: lag=8.02 +2.37/-26.43 d rmax=0.84 q=A
+2026-07-16 15:24:59,301 INFO 56506_hardonly: only 0 radio pts, skip
+2026-07-16 15:24:59,302 INFO 56952_rise: only 0 radio pts, skip
+2026-07-16 15:24:59,302 INFO 56952_decay: only 0 radio pts, skip
+2026-07-16 15:24:59,302 INFO 58740_rise: only 0 radio pts, skip
+2026-07-16 15:24:59,302 INFO 58740_decay: only 0 radio pts, skip
+2026-07-16 15:24:59,303 INFO 59244_rise: only 0 radio pts, skip
+2026-07-16 15:24:59,303 INFO 60256_rise: only 0 radio pts, skip
+2026-07-16 15:24:59,303 INFO 60256_decay: only 0 radio pts, skip
+2026-07-16 15:24:59,303 INFO 60486_rise: only 0 radio pts, skip
+2026-07-16 15:24:59,303 INFO 60486_decay: only 0 radio pts, skip
+2026-07-16 15:24:59,304 INFO 60990_hardonly: only 0 radio pts, skip
+2026-07-16 15:24:59,305 INFO wrote tau_table.csv (4 windows)

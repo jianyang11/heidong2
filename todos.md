@@ -8,25 +8,25 @@
 - [x] 撰写 docs/literature_review.md
 - [x] 撰写 docs/proposal.md（H1/H2/H3 假设、方法、风险预案）
 - [x] 创建本 todos.md
-- [ ] 初始化 git 仓库并推送到 github.com/jianyang11/heidong2
+- [x] 初始化 git 仓库并推送到 github.com/jianyang11/heidong2
 
 ## Phase 1 环境与样本
 - [x] 建立目录结构 code/ data/{raw,processed,tables} logs/ output/{figures,results} docs/
-- [ ] 安装 python 依赖（numpy scipy pandas matplotlib astropy emcee corner requests）并记录 requirements.txt
-- [ ] 编写 code/utils.py（日志、checkpoint、Crab 换算、L_Edd/R_s 常数）
-- [ ] 编制 data/tables/bh_sample.csv：源名、M±err、D±err、i、P_orb、spin、出处（逐源核对 BlackCAT/文献）
-- [ ] 目检样本表：质量/距离与文献一致性抽查 ≥5 源
+- [x] 安装 python 依赖（numpy scipy pandas matplotlib astropy emcee corner requests）并记录 requirements.txt
+- [x] 编写 code/utils.py（日志、checkpoint、Crab 换算、L_Edd/R_s 常数）
+- [x] 编制 data/tables/bh_sample.csv：源名、M±err、D±err、i、P_orb、spin、出处（逐源核对 BlackCAT/文献）
+- [x] 目检样本表：质量/距离与文献一致性抽查 ≥5 源
 
 ## Phase 2 X射线监测数据获取（先试点后批量）
-- [ ] 编写 code/download_xray.py（MAXI + Swift/BAT + RXTE/ASM；并发≤4；checkpoint 续跑；日志实时进度）
-- [ ] 试点 3 源（GX 339-4, MAXI J1820+070, XTE J1550-564）下载并画原始光变 → read 目检
-- [ ] 修正源名→各站点标识映射问题后批量下载全样本
+- [x] 编写 code/download_xray.py（MAXI + Swift/BAT + RXTE/ASM；并发≤4；checkpoint 续跑；日志实时进度）
+- [x] 试点 3 源（GX 339-4, MAXI J1820+070, XTE J1550-564）下载并画原始光变 → read 目检
+- [x] 修正源名→各站点标识映射问题后批量下载全样本（修正 J1348-632、IGRJ17464-3213、4U1543-47、SWIFTJ1727.8-1613；补充 RXTE/ASM dwell FITS + colors）
 - [ ] 校验：每源覆盖时段、点数、缺测段记录到 logs/data_inventory.csv
-- [ ] 磁盘占用检查（应 <2 GB）
+- [x] 磁盘占用检查（data 共 532 MB，raw ~500 MB）
 
 ## Phase 3 光变清洗、爆发识别与 HID
-- [ ] code/lightcurve.py：清洗（负值/大误差剔除）、S/N 过滤、Crab 归一、多任务拼接
-- [ ] 爆发自动识别 + 人工目检每源光变图（output/figures/lc_*.png，read 逐张检查）
+- [x] code/lightcurve.py：清洗（负值/大误差剔除）、S/N 过滤、Crab 归一、多任务拼接
+- [x] 爆发自动识别 + 人工目检光变图（GX339-4 12次、J1550 3次、GRO1655 2次、V404 2015、J1118 2000 等均与文献爆发史一致；对 J1118/V404/J1659 引入 per-source 阈值覆盖）（output/figures/lc_*.png，read 逐张检查）
 - [ ] 计算硬度比、构建 HID；试点源 HID 与文献（Corbel+13 等）对照核验
 - [ ] 态分类（阈值+文献仲裁）；生成态色带光变图并目检
 - [ ] 提取逐爆发 rise/decay 转变时刻与光度（bootstrap 误差）
@@ -69,3 +69,5 @@
 
 ## 迭代记录（持续追加）
 - 2026-07-16: 建立 v1 计划；完成文献调研与方案文档。
+- 2026-07-16: ASM dwell FITS TIME 单位为天（非秒），且 SUM 与 A/B/C 分带存于 lightcurves/ 与 colors/ 两套文件——已修正并合并；爆发识别参数迭代 3 轮（阈值0.03 Crab+峰值0.1+min_pts10，faint 源单独覆盖），结果与文献爆发史核对通过。
+- 2026-07-16: 待办：4U 1543-47 的 55662-55748、Swift J1727 2023 前段疑似场源污染，转变提取阶段需复核。

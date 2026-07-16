@@ -1,0 +1,19 @@
+2026-07-16 15:15:22,401 INFO threshold maxi: HR_t=0.402 (peaks at 0.87, 0.30)
+2026-07-16 15:15:22,459 INFO threshold asm: HR_t=0.953 (peaks at 2.26, 0.95)
+2026-07-16 15:15:24,430 INFO GX 339-4: 25 transitions in 12 outbursts
+2026-07-16 15:15:26,133 INFO MAXI J1820+070: 2 transitions in 1 outbursts
+2026-07-16 15:15:26,422 INFO XTE J1550-564: 3 transitions in 3 outbursts
+2026-07-16 15:15:27,190 INFO GRO J1655-40: 4 transitions in 2 outbursts
+2026-07-16 15:15:27,569 INFO 4U 1543-47: 2 transitions in 3 outbursts
+2026-07-16 15:15:28,099 INFO XTE J1859+226: 1 transitions in 1 outbursts
+2026-07-16 15:15:28,265 INFO GRS 1915+105: 0 transitions in 3 outbursts
+2026-07-16 15:15:28,775 INFO V404 Cyg: 0 transitions in 1 outbursts
+2026-07-16 15:15:28,943 INFO XTE J1118+480: 1 transitions in 2 outbursts
+2026-07-16 15:16:07,811 INFO Cyg X-1: 100 transitions in 7 outbursts
+2026-07-16 15:16:08,910 INFO MAXI J1348-630: 2 transitions in 1 outbursts
+2026-07-16 15:16:09,747 INFO H1743-322: 14 transitions in 12 outbursts
+2026-07-16 15:16:11,378 INFO MAXI J1535-571: 1 transitions in 1 outbursts
+2026-07-16 15:16:12,416 INFO Swift J1727.8-1613: 18 transitions in 6 outbursts
+2026-07-16 15:16:13,362 INFO MAXI J1659-152: 4 transitions in 1 outbursts
+2026-07-16 15:16:13,623 INFO XTE J1752-223: 2 transitions in 1 outbursts
+2026-07-16 15:16:13,772 INFO wrote transitions.csv (179 rows)

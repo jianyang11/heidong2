@@ -1,0 +1,8 @@
+name,mjd_lo,mjd_hi,action,reason
+Swift J1727.8-1613,0,60150,drop,"pre-discovery (2023-08) MAXI flux is field-source contamination"
+4U 1543-47,55600,55800,drop,"no published outburst in 2011; MAXI low-flux segment likely contamination"
+MAXI J1820+070,0,58150,drop,"pre-discovery (2018-03) segments are noise"
+GRO J1655-40,50150,50330,flag,"1996 rise poorly sampled by early ASM; transitions unreliable"
+H1743-322,52690,52780,flag,"2003 rise very hard/bright; ASM A-band saturationish, transition L overestimated"
+Cyg X-1,0,99999,exclude_h1,"persistent HMXB; state flips not outburst transitions - excluded from H1 transient stats"
+GRS 1915+105,0,99999,exclude_h1,"persistent; no canonical q-track transitions"
