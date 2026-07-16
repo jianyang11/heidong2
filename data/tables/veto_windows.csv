@@ -6,3 +6,4 @@ GRO J1655-40,50150,50330,flag,"1996 rise poorly sampled by early ASM; transition
 H1743-322,52690,52780,flag,"2003 rise very hard/bright; ASM A-band saturationish, transition L overestimated"
 Cyg X-1,0,99999,exclude_h1,"persistent HMXB; state flips not outburst transitions - excluded from H1 transient stats"
 GRS 1915+105,0,99999,exclude_h1,"persistent; no canonical q-track transitions"
+XTE J1118+480,0,99999,drop,"hard-state-only outbursts; never enters soft state (Brocksopp+04) - HR crossings are not canonical transitions"

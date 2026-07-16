@@ -1,0 +1,38 @@
+2026-07-16 15:29:05,641 INFO transitions after veto/quality cuts: 61 (25 decay, 36 rise) from 12 sources
+2026-07-16 15:29:05,647 INFO [H1 decay_s2h] sources=10, per-source median L_trans/L_Edd: median=0.0145, scatter=0.0179
+2026-07-16 15:29:05,649 INFO [H1 decay_s2h] Spearman log(L/LEdd) vs log(Rs): rho=-0.430 p=0.214
+2026-07-16 15:29:07,449 INFO [H1 decay_s2h] logL/LEdd = a + b*logM: intercept=-1.999(+0.175/-0.172) slope=-1.003(+1.401/-1.343) scatter=0.463 dex; P(slope>0)=0.229
+2026-07-16 15:29:07,722 INFO [H1 rise_h2s] sources=11, per-source median L_trans/L_Edd: median=0.0813, scatter=0.0417
+2026-07-16 15:29:07,723 INFO [H1 rise_h2s] Spearman log(L/LEdd) vs log(Rs): rho=-0.419 p=0.199
+2026-07-16 15:29:09,434 INFO [H1 rise_h2s] logL/LEdd = a + b*logM: intercept=-1.249(+0.117/-0.119) slope=0.121(+2.194/-1.252) scatter=0.258 dex; P(slope>0)=0.531
+2026-07-16 15:29:09,772 INFO [hysteresis] 18 outbursts with both transitions; median log(L_rise/L_decay)=0.68 dex
+2026-07-16 15:29:09,774 INFO [H3] Spearman log(phi_max) vs log(Rs): rho=-0.515 p=0.128 (n=10)
+2026-07-16 15:29:09,777 INFO [H3] Spearman log(phi_max) vs log(L_decay/LEdd): rho=0.262 p=0.531 (n=8)
+2026-07-16 15:29:09,779 INFO [H3] Spearman log(phi_max) vs hysteresis amp: rho=-0.886 p=0.019 (n=6)
+2026-07-16 15:29:10,064 INFO [H2] measured lags (GX 339-4, this work):
+2026-07-16 15:29:10,064 INFO     53068_rise: -4.8 +6.1/-4.0 d (r_max=0.91, q=A)
+2026-07-16 15:29:10,064 INFO     53068_decay: +8.2 +9.1/-7.2 d (r_max=0.98, q=A)
+2026-07-16 15:29:10,065 INFO     55200_rise: +9.3 +0.5/-0.5 d (r_max=0.98, q=A)
+2026-07-16 15:29:10,065 INFO     55200_decay: +8.0 +2.4/-26.4 d (r_max=0.84, q=A)
+2026-07-16 15:29:10,065 INFO [H2] decay-phase lags cluster at ~+8 d in 2004 & 2010-11 outbursts of GX 339-4 and match the published J1820 hard-state delay (+8+-3 d), supporting a MAD-formation timescale that is similar (in days) across sources with Rs 17-25 km at comparable Eddington ratio.
+2026-07-16 15:29:16,699 INFO [robust] H1-decay leave-one-out slope range: [-1.389, 0.208]
+2026-07-16 15:29:16,699 INFO wrote stats_summary.txt
+2026-07-16 15:29:48,882 INFO transitions after veto/quality cuts: 60 (24 decay, 36 rise) from 11 sources
+2026-07-16 15:29:48,886 INFO [H1 decay_s2h] sources=9, per-source median L_trans/L_Edd: median=0.0150, scatter=0.0180
+2026-07-16 15:29:48,887 INFO [H1 decay_s2h] Spearman log(L/LEdd) vs log(Rs): rho=-0.667 p=0.050
+2026-07-16 15:29:50,541 INFO [H1 decay_s2h] logL/LEdd = a + b*logM: intercept=-1.872(+0.095/-0.096) slope=-1.229(+0.668/-0.698) scatter=0.016 dex; P(slope>0)=0.045
+2026-07-16 15:29:50,815 INFO [H1 rise_h2s] sources=11, per-source median L_trans/L_Edd: median=0.0813, scatter=0.0417
+2026-07-16 15:29:50,816 INFO [H1 rise_h2s] Spearman log(L/LEdd) vs log(Rs): rho=-0.419 p=0.199
+2026-07-16 15:29:52,468 INFO [H1 rise_h2s] logL/LEdd = a + b*logM: intercept=-1.255(+0.116/-0.116) slope=0.052(+2.084/-1.203) scatter=0.260 dex; P(slope>0)=0.512
+2026-07-16 15:29:52,791 INFO [hysteresis] 18 outbursts with both transitions; median log(L_rise/L_decay)=0.68 dex
+2026-07-16 15:29:52,793 INFO [H3] Spearman log(phi_max) vs log(Rs): rho=-0.515 p=0.128 (n=10)
+2026-07-16 15:29:52,795 INFO [H3] Spearman log(phi_max) vs log(L_decay/LEdd): rho=0.679 p=0.094 (n=7)
+2026-07-16 15:29:52,797 INFO [H3] Spearman log(phi_max) vs hysteresis amp: rho=-0.886 p=0.019 (n=6)
+2026-07-16 15:29:53,081 INFO [H2] measured lags (GX 339-4, this work):
+2026-07-16 15:29:53,081 INFO     53068_rise: -4.8 +6.1/-4.0 d (r_max=0.91, q=A)
+2026-07-16 15:29:53,081 INFO     53068_decay: +8.2 +9.1/-7.2 d (r_max=0.98, q=A)
+2026-07-16 15:29:53,081 INFO     55200_rise: +9.3 +0.5/-0.5 d (r_max=0.98, q=A)
+2026-07-16 15:29:53,081 INFO     55200_decay: +8.0 +2.4/-26.4 d (r_max=0.84, q=A)
+2026-07-16 15:29:53,081 INFO [H2] decay-phase lags cluster at ~+8 d in 2004 & 2010-11 outbursts of GX 339-4 and match the published J1820 hard-state delay (+8+-3 d), supporting a MAD-formation timescale that is similar (in days) across sources with Rs 17-25 km at comparable Eddington ratio.
+2026-07-16 15:29:58,734 INFO [robust] H1-decay leave-one-out slope range: [-2.181, -0.321]
+2026-07-16 15:29:58,734 INFO wrote stats_summary.txt

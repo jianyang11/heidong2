@@ -1,0 +1,18 @@
+transitions after veto/quality cuts: 60 (24 decay, 36 rise) from 11 sources
+[H1 decay_s2h] sources=9, per-source median L_trans/L_Edd: median=0.0150, scatter=0.0180
+[H1 decay_s2h] Spearman log(L/LEdd) vs log(Rs): rho=-0.667 p=0.050
+[H1 decay_s2h] logL/LEdd = a + b*logM: intercept=-1.872(+0.095/-0.096) slope=-1.229(+0.668/-0.698) scatter=0.016 dex; P(slope>0)=0.045
+[H1 rise_h2s] sources=11, per-source median L_trans/L_Edd: median=0.0813, scatter=0.0417
+[H1 rise_h2s] Spearman log(L/LEdd) vs log(Rs): rho=-0.419 p=0.199
+[H1 rise_h2s] logL/LEdd = a + b*logM: intercept=-1.255(+0.116/-0.116) slope=0.052(+2.084/-1.203) scatter=0.260 dex; P(slope>0)=0.512
+[hysteresis] 18 outbursts with both transitions; median log(L_rise/L_decay)=0.68 dex
+[H3] Spearman log(phi_max) vs log(Rs): rho=-0.515 p=0.128 (n=10)
+[H3] Spearman log(phi_max) vs log(L_decay/LEdd): rho=0.679 p=0.094 (n=7)
+[H3] Spearman log(phi_max) vs hysteresis amp: rho=-0.886 p=0.019 (n=6)
+[H2] measured lags (GX 339-4, this work):
+    53068_rise: -4.8 +6.1/-4.0 d (r_max=0.91, q=A)
+    53068_decay: +8.2 +9.1/-7.2 d (r_max=0.98, q=A)
+    55200_rise: +9.3 +0.5/-0.5 d (r_max=0.98, q=A)
+    55200_decay: +8.0 +2.4/-26.4 d (r_max=0.84, q=A)
+[H2] decay-phase lags cluster at ~+8 d in 2004 & 2010-11 outbursts of GX 339-4 and match the published J1820 hard-state delay (+8+-3 d), supporting a MAD-formation timescale that is similar (in days) across sources with Rs 17-25 km at comparable Eddington ratio.
+[robust] H1-decay leave-one-out slope range: [-2.181, -0.321]
