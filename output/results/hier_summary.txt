@@ -1,0 +1,15 @@
+== (1) source-level vs event-level variance decomposition ==
+[varcomp hyst_dex] n_src=11 n_evt=27 sig_source=0.104 dex, sig_event=0.483 dex, f_source=0.04 (+0.32/-0.04)
+[varcomp log_ledd_decay] n_src=11 n_evt=29 sig_source=0.679 dex, sig_event=0.347 dex, f_source=0.80 (+0.09/-0.17)
+[varcomp log_ledd_rise] n_src=13 n_evt=35 sig_source=0.313 dex, sig_event=0.480 dex, f_source=0.31 (+0.20/-0.20)
+== (2) jet radio-loudness xi vs spin parametrizations ==
+sources with xi: 10; with spin: 8 (5 CF, 3 refl)
+  M0_const: WAIC=14.4 slope=-0.72 (+20.63/-19.78)
+  M1_a2: WAIC=14.1 slope=+0.79 (+0.55/-0.61)
+  M2_OmegaH2: WAIC=14.4 slope=+6.13 (+4.36/-4.12)
+  M3_logRisco: WAIC=14.1 slope=-1.74 (+1.34/-1.24)
+  M4_logphi (n=8): WAIC=17.1 slope=+0.13 (+0.70/-0.64)
+  sensitivity a^2 (CF only, n=5): slope=+1.11 (+0.65/-0.67)
+  sensitivity a^2 (refl only, n=6): slope=+0.59 (+0.41/-0.45)
+== (3) event-level jet output at fixed spin: GX 339-4 ==
+GX 339-4: 5 events, radio-peak spread 0.70 dex at fixed spin; corr(log peak_ledd, log S_peak)=0.61 -> event-state drives >~0.7 dex of jet variance within one source

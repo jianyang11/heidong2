@@ -1,0 +1,16 @@
+2026-07-17 01:30:55,232 INFO == (1) source-level vs event-level variance decomposition ==
+2026-07-17 01:31:01,305 INFO [varcomp hyst_dex] n_src=11 n_evt=27 sig_source=0.104 dex, sig_event=0.483 dex, f_source=0.04 (+0.32/-0.04)
+2026-07-17 01:31:07,767 INFO [varcomp log_ledd_decay] n_src=11 n_evt=29 sig_source=0.679 dex, sig_event=0.347 dex, f_source=0.80 (+0.09/-0.17)
+2026-07-17 01:31:14,967 INFO [varcomp log_ledd_rise] n_src=13 n_evt=35 sig_source=0.313 dex, sig_event=0.480 dex, f_source=0.31 (+0.20/-0.20)
+2026-07-17 01:31:14,968 INFO == (2) jet radio-loudness xi vs spin parametrizations ==
+2026-07-17 01:31:14,969 INFO sources with xi: 10; with spin: 8 (5 CF, 3 refl)
+2026-07-17 01:31:15,919 INFO   M0_const: WAIC=14.4 slope=-0.72 (+20.63/-19.78)
+2026-07-17 01:31:16,991 INFO   M1_a2: WAIC=14.1 slope=+0.79 (+0.55/-0.61)
+2026-07-17 01:31:18,062 INFO   M2_OmegaH2: WAIC=14.4 slope=+6.13 (+4.36/-4.12)
+2026-07-17 01:31:19,079 INFO   M3_logRisco: WAIC=14.1 slope=-1.74 (+1.34/-1.24)
+2026-07-17 01:31:20,134 INFO   M4_logphi (n=8): WAIC=17.1 slope=+0.13 (+0.70/-0.64)
+2026-07-17 01:31:21,232 INFO   sensitivity a^2 (CF only, n=5): slope=+1.11 (+0.65/-0.67)
+2026-07-17 01:31:22,253 INFO   sensitivity a^2 (refl only, n=6): slope=+0.59 (+0.41/-0.45)
+2026-07-17 01:31:22,253 INFO == (3) event-level jet output at fixed spin: GX 339-4 ==
+2026-07-17 01:31:22,255 INFO GX 339-4: 5 events, radio-peak spread 0.70 dex at fixed spin; corr(log peak_ledd, log S_peak)=0.61 -> event-state drives >~0.7 dex of jet variance within one source
+2026-07-17 01:31:22,631 INFO wrote hier_summary.txt

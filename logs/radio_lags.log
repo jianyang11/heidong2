@@ -20,3 +20,5 @@
 2026-07-16 15:24:59,303 INFO 60486_decay: only 0 radio pts, skip
 2026-07-16 15:24:59,304 INFO 60990_hardonly: only 0 radio pts, skip
 2026-07-16 15:24:59,305 INFO wrote tau_table.csv (4 windows)
+2026-07-17 01:29:33,858 INFO radio epochs: 87 (MJD 50483-56103)
+2026-07-17 01:29:51,250 INFO radio epochs: 87 (MJD 50483-56103)

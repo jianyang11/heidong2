@@ -29,3 +29,10 @@
 ## 统计（H6 阶段）
 - 贝叶斯误差回归（emcee, 32×4000, 弃烧一半），留一法稳健性；J1118 剔除前后 decay 斜率从 −1.0±1.4 变为 −1.23±0.7（该源本就该剔除：从不进入软态）。
 - 全部统计输出：output/results/stats_summary.txt。
+
+## 事件级重构（v2，应外部评审意见收窄主张）
+- 新增 data/tables/spin_table.csv：CF 与反射双列自旋（逐源文献出处；GRO J1655 已知两法张力如实保留）。
+- code/events.py：构建 events.csv（50 事件×15 源）与 source_table.csv（r_ISCO(BPT72)、Ω_H、η_BZ、射电响度 ξ）。ξ 用 Lr–Lx 数据库对全局硬态轨迹 (斜率 0.6) 的逐源中位残差 + bootstrap 误差（单点源误差下限 0.15 dex）；避免"不同年代/频段射电峰值混拼"。
+- code/hier_model.py：两层方差分解（解析边缘化随机截距）+ WAIC 模型比较。
+- 关键数字：回滞 f_source=0.04（事件层主导）；ξ 各自旋参数化 WAIC 等价；GX 339-4 固定自旋事件散射 0.7 dex。
+- 逐事件射电峰值仅 GX 339-4 由机读数据获得（5 事件）；其他源留空并注明扩展路径（ThunderKAT/AMI 释放），不做记忆性文献数值填充。

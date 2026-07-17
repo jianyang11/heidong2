@@ -76,3 +76,13 @@
 - 2026-07-16: Phase 5：φ_max∈[5,51]，全部 ≤ φ_MAD≈50；3 组标定敏感性传播。
 - 2026-07-16: Phase 6：H1 decay 中位 1.5% L_Edd，斜率 −1.23(+0.67/−0.70)；发现 φ_max–回滞负相关（ρ=−0.886, p=0.019）；J1118（从不进软态）自 H1 剔除（veto 表迭代）。
 - 2026-07-16: Phase 7-8：结果总结、README、全部推送 GitHub。
+
+## Phase 9 事件级重构（v2）
+- [x] spin_table.csv（CF/反射双列+出处）
+- [x] events.csv + source_table.csv（事件级统一样本、ξ、r_ISCO、Ω_H）
+- [x] 两层贝叶斯方差分解（回滞 f_source=0.04；decay 0.80；rise 0.31）
+- [x] ξ vs 自旋/Ω_H²/ISCO WAIC 比较（等价→无法裁决，如实报告）
+- [x] xi_spin_isco_events.png 目检
+- [x] results_summary 5A 节收窄论文主张；analysis_log 更新
+- [ ] 扩展逐事件射电峰值至其他源（待 ThunderKAT/AMI 公开释放）
+- 2026-07-17: v2 事件级重构完成并推送。
